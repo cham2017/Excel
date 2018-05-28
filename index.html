@@ -1,0 +1,260 @@
+<link href="https://cdn.muicss.com/mui-0.9.9/css/mui.min.css" rel="stylesheet" type="text/css" />
+<script src="https://cdn.muicss.com/mui-0.9.9/js/mui.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.12.0/d3.min.js"></script>
+<div id="content-wrapper">
+  <div id="app" class="mui-container">
+      <div id="grid-heat" style="margin:0px;height:2000px;width:100%;padding:0;display:block;background-color:#fafafa;"></div>
+  </div>
+</div>
+<script>
+
+
+
+var Render = (function(ns) {
+  
+  ns.state = {
+    heatRange: ["#f1f8e9", "#8bc34a"],
+    distortion: 2.5,
+    radius: 200,
+    margin: 10,
+    unheat:"#ffffff",
+    textColor:"#212121",
+    lightTextColor:"#ffffff",
+    borderColor:"#fafafa",
+    borderWidth:1,
+    a1Fill:"#FF5252",
+    activeBorderColor:"#3F51B5",
+    activeBorderWidth:2
+  };
+  
+  /**
+   * update the heat maps
+   * @param {[][]} [values] normally already provided
+   */
+  ns.updateHeat = function(award, values) {
+    // initialize if required
+    ns.init();
+
+    // make a place
+    const h = (ns.state.gridHeat = ns.state.gridHeat || {});
+
+    var formattedData = ns.formatData(values[award]);
+
+      h.values = formattedData.map(function(row, ri) {
+        return row.map(function(cell, ci) {
+          return {
+            oc: ci,
+            or: ri,
+            color: cell === row[1] ? "Green" : "Yellow",
+            opacity: ns.getOpacity(row, cell)
+            // value: ri ? row[3] : 0   // for this unplugged demo.use the elevation as theintensity
+          };
+        });
+      });
+      h.sheetValues = formattedData;
+
+    // redim everything for new data set
+    ns.prepareHeat();
+
+    // render it
+    return ns.drawHeat();
+  };
+
+  ns.formatData = function(data) {
+    var aFormattedData = [];
+    var aItem = ["Year"];
+    for (var item in data) {
+      aItem.push(item);
+    }
+    aFormattedData.push(aItem);
+
+    for (var item in data) {
+      data[item].forEach(function(i, index) {
+        if (item === "Oscar") {
+          aFormattedData.push([]);
+          aFormattedData[index + 1].push(i.Year);
+        }
+        aFormattedData[index + 1].push(i.Title);
+      });
+    }
+
+    return aFormattedData;
+  };
+
+  /**
+   * redim everything for a new dataset
+   */
+  ns.prepareHeat = function() {
+    const h = ns.state.gridHeat;
+    h.box = null;
+    const values = ns.state.gridHeat.values;
+    
+    // flatten the data
+    const sv = ns.state.gridHeat.sheetValues;
+    h.flat = values.reduce (function (p,c) {
+      c.forEach (function (d) {
+        // attach the sheet values
+        d.sheetValue = d.or < sv.length && d.oc < sv[d.or].length ? sv[d.or][d.oc] : "";
+        p.push(d);
+      });
+      return p;
+    },[]);
+
+    // setthe color domains
+    const extent = d3.extent (h.flat, function (d) {
+      return d.value;  
+    });
+
+    // heatscale calculator
+    h.hs = d3.scaleLinear()
+      .domain(extent)
+      .range(ns.state.heatRange);
+    
+    return ns;
+  };
+
+  ns.getOpacity = function(row, cell) {
+    var opacity = 0.3;
+    var count = 0;
+    row.forEach(function(i) {
+      if (i === cell) {
+        count++;
+      }
+    });
+    opacity += count/row.length * 0.7;
+    return opacity;
+  };
+
+  /**
+   * render it
+   */
+  ns.drawHeat = function() {
+    
+    const state = ns.state;
+    const h = state.gridHeat;
+    
+    // the extent of the rows/cols
+    const colExtent = d3.extent (h.flat , function (d) {
+      return d.oc;
+    });
+    const rowExtent = d3.extent (h.flat , function (d) {
+      return d.or;
+    });
+    
+    // dim of each item
+    h.idim = {
+      width:(h.width - 2 * state.margin)/ (colExtent[1] - colExtent[0] + 1),
+      height: 20
+      // height: (h.height - 2 * state.margin) / (rowExtent[1] - rowExtent[0] + 1)
+    };
+
+    h.flat.forEach(function(d,i) {
+      d.ox = d.oc * h.idim.width + state.margin;
+      d.oy = d.or * h.idim.height + state.margin;
+      d.ow = h.idim.width;
+      d.oh = h.idim.height;
+    });
+
+    // select all the cells
+    const boxes = h.selection
+      .selectAll(".heatgroup")
+      .data(h.flat);
+    
+    boxes.exit().remove();
+    
+    // create new entries
+    const genter = boxes.enter()
+      .append("g")
+      .attr("class", "heatgroup");
+
+    // create new items
+    genter.append("rect").attr("class", "heatbox");
+    genter.append("text").attr("class", "heattext");
+    
+    // merge all that
+    const enter = genter
+    .merge (boxes)
+      .classed ("hbox", function (d) {
+        return ishbox(d);
+      });
+    // and text
+    enter.select(".heattext")
+      .text(function(d) { return d.sheetValue })
+      .style("fill", state.textColor)
+      .style("font-size", function(d) {
+        d.textLength = this.getComputedTextLength();
+        return d.oh / 3 + "px";
+      })
+      .attr("x", function(d, i) { return d.ox; })
+      .attr("y", function(d, i) { return d.oy; })
+      .attr("dx", function(d) { return ".5em"; })
+      .attr("dy", function(d) { return "2em"; });
+    
+    enter.select (".heatbox")
+      .attr("x", function (d) { return d.ox; })
+      .attr("y", function (d) { return d.oy; })
+      .attr("width", function (d) { 
+        return ishbox(d) ? Math.max(d.ow, d.textLength) : d.ow; 
+       })
+      .attr("height", function (d) { return d.oh; }) 
+      .style("stroke", function (d) { 
+        return isharc (d) ? state.activeBorderColor : state.borderColor; 
+      })
+      .style("stroke-width", function (d) { 
+        return isharc (d) ? state.activeBorderWidth : state.borderWidth; 
+      })
+      .style("opacity", function (d) {
+        return d.opacity;
+      })
+      .style("fill", function(d) { return d.color; });
+      
+    return ns;
+  };
+
+  ns.init = function() {
+  
+    if (!ns.state.gridHeat) {
+      const state= ns.state;    
+      const h = (ns.state.gridHeat = {});
+      h.div = d3.select("#grid-heat");
+      h.dims = h.div.node().getBoundingClientRect();
+      h.height = h.dims.height;
+      h.width = h.dims.width;
+
+      // setup svg elem for grid
+      h.frame = h.div
+        .append("svg")
+          .attr("width", h.width)
+          .attr("height", h.height)
+        .append("g")
+          .attr("width", h.width)
+          .attr("height", h.height)
+          .attr("transform", "translate(" + 0 + "," + 0 + ")");
+
+      // this group is the grid rects
+      h.selection = h.frame.append("g");
+      
+      return ns;
+    }
+  };
+  
+  
+  function ishbox (item) {
+    const h = ns.state.gridHeat;
+    return h.box && item.or === h.box.or && item.oc === h.box.oc;
+  }
+
+  function isharc (item) {
+    const h = ns.state.gridHeat;
+    return h.activerc && item.or === h.activerc.or && item.oc === h.activerc.oc;
+  }
+  
+ 
+  return ns;
+})({});
+
+d3.json("data.json", function(json) {
+  Render.updateHeat("Best Picture", json);
+});
+
+</script>
