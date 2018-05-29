@@ -1512,5 +1512,1893 @@
                 "Title": "Hope and Glory"
             }
         ]
+    },
+    "Best Director": {
+        "Oscar": [
+            {
+                "Year": "2018",
+                "Title": "The Shape of Water",
+                "Winner": "Guillermo del Toro"
+            },
+            {
+                "Year": "2017",
+                "Title": "La La Land",
+                "Winner": "Damien Chazelle"
+            },
+            {
+                "Year": "2016",
+                "Title": "The Revenant",
+                "Winner": "Alejandro G. Iñárritu"
+            },
+            {
+                "Year": "2015",
+                "Title": "Birdman or (The Unexpected Virtue of Ignorance)",
+                "Winner": "Alejandro G. Iñárritu"
+            },
+            {
+                "Year": "2014",
+                "Title": "Gravity",
+                "Winner": "Alfonso Cuarón"
+            },
+            {
+                "Year": "2013",
+                "Title": "Life of Pi",
+                "Winner": "Ang Lee"
+            },
+            {
+                "Year": "2012",
+                "Title": "The Artist",
+                "Winner": "Michel Hazanavicius"
+            },
+            {
+                "Year": "2011",
+                "Title": "The King's Speech",
+                "Winner": "Tom Hooper"
+            },
+            {
+                "Year": "2010",
+                "Title": "The Hurt Locker",
+                "Winner": "Kathryn Bigelow"
+            },
+            {
+                "Year": "2009",
+                "Title": "Slumdog Millionaire",
+                "Winner": "Danny Boyle"
+            },
+            {
+                "Year": "2008",
+                "Title": "No Country for Old Men",
+                "Winner": "Joel Coen and Ethan Coen"
+            },
+            {
+                "Year": "2007",
+                "Title": "The Departed",
+                "Winner": "Martin Scorsese"
+            },
+            {
+                "Year": "2006",
+                "Title": "Brokeback Mountain",
+                "Winner": "Ang Lee"
+            },
+            {
+                "Year": "2005",
+                "Title": "Million Dollar Baby",
+                "Winner": "Clint Eastwood"
+            },
+            {
+                "Year": "2004",
+                "Title": "The Lord of the Rings: The Return of the King",
+                "Winner": "Peter Jackson"
+            },
+            {
+                "Year": "2003",
+                "Title": "The Pianist",
+                "Winner": "Roman Polanski"
+            },
+            {
+                "Year": "2002",
+                "Title": "A Beautiful Mind",
+                "Winner": "Ron Howard"
+            },
+            {
+                "Year": "2001",
+                "Title": "Traffic",
+                "Winner": "Steven Soderbergh"
+            },
+            {
+                "Year": "2000",
+                "Title": "American Beauty",
+                "Winner": "Sam Mendes"
+            },
+            {
+                "Year": "1999",
+                "Title": "Saving Private Ryan",
+                "Winner": "Steven Spielberg"
+            },
+            {
+                "Year": "1998",
+                "Title": "Titanic",
+                "Winner": "James Cameron"
+            },
+            {
+                "Year": "1997",
+                "Title": "The English Patient",
+                "Winner": "Anthony Minghella"
+            },
+            {
+                "Year": "1996",
+                "Title": "Braveheart",
+                "Winner": "Mel Gibson"
+            },
+            {
+                "Year": "1995",
+                "Title": "Forrest Gump",
+                "Winner": "Robert Zemeckis"
+            },
+            {
+                "Year": "1994",
+                "Title": "Schindler's List",
+                "Winner": "Steven Spielberg"
+            },
+            {
+                "Year": "1993",
+                "Title": "Unforgiven",
+                "Winner": "Clint Eastwood"
+            },
+            {
+                "Year": "1992",
+                "Title": "The Silence of the Lambs",
+                "Winner": "Jonathan Demme"
+            },
+            {
+                "Year": "1991",
+                "Title": "Dances with Wolves",
+                "Winner": "Kevin Costner"
+            },
+            {
+                "Year": "1990",
+                "Title": "Born on the Fourth of July",
+                "Winner": "Oliver Stone"
+            },
+            {
+                "Year": "1989",
+                "Title": "Rain Man",
+                "Winner": "Barry Levinson"
+            },
+            {
+                "Year": "1988",
+                "Title": "The Last Emperor",
+                "Winner": "Bernardo Bertolucci"
+            }
+        ],
+        "DGA": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Guillermo del Toro"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Damien Chazelle"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Alejandro G. Iñárritu"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Alejandro G. Iñárritu"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Alfonso Cuarón"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Ben Affleck"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Michel Hazanavicius"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Tom Hooper"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Kathryn Bigelow"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Danny Boyle"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Joel Coen and Ethan Coen"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Martin Scorsese"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Ang Lee"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Clint Eastwood"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Peter Jackson"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Rob Marshall"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Ron Howard"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Ang Lee"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Sam Mendes"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Steven Spielberg"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "James Cameron"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Anthony Minghella"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Ron Howard"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Robert Zemeckis"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Steven Spielberg"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Clint Eastwood"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Jonathan Demme"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Kevin Costner"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Oliver Stone"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Barry Levinson"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Bernardo Bertolucci"
+            }
+        ],
+        "GG": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Guillermo del Toro"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Damien Chazelle"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Alejandro G. Iñárritu"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Richard Linklater"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Alfonso Cuarón"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Ben Affleck"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Martin Scorsese"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "David Fincher"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "James Cameron"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Danny Boyle"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Julian Schnabel"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Martin Scorsese"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Ang Lee"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Clint Eastwood"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Peter Jackson"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Martin Scorsese"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Robert Altman"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Ang Lee"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Sam Mendes"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Steven Spielberg"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "James Cameron"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Miloš Forman"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Mel Gibson"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Robert Zemeckis"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Steven Spielberg"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Clint Eastwood"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Oliver Stone"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Kevin Costner"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Oliver Stone"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Clint Eastwood"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Bernardo Bertolucci"
+            }
+        ],
+        "BFCA": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Guillermo del Toro"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Damien Chazelle"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "George Miller"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Richard Linklater"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Alfonso Cuarón"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Ben Affleck"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Michel Hazanavicius"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "David Fincher"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Kathryn Bigelow"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Danny Boyle"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Joel Coen and Ethan Coen"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Martin Scorsese"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Ang Lee"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Martin Scorsese"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Peter Jackson"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Steven Spielberg"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Ron Howard/Baz Luhrmann"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Steven Soderbergh"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Sam Mendes"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Steven Spielberg"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "James Cameron"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Anthony Minghella"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Mel Gibson"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "BAFTA": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Guillermo del Toro"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Damien Chazelle"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Alejandro G. Iñárritu"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Richard Linklater"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Alfonso Cuarón"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Ben Affleck"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Michel Hazanavicius"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "David Fincher"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Kathryn Bigelow"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Danny Boyle"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Joel Coen and Ethan Coen"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Paul Greengrass"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Ang Lee"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Mike Leigh"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Peter Weir"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Roman Polanski"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Peter Jackson"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Ang Lee"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Pedro Almodóvar"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Peter Weir"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Baz Luhrmann"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Joel Coen"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Michael Radford"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Mike Newell"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Steven Spielberg"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Robert Altman"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Alan Parker"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Martin Scorsese"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Kenneth Branagh"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Louis Malle"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Oliver Stone"
+            }
+        ],
+        "NBR": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Greta Gerwig"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Barry Jenkins"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Ridley Scott"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Clint Eastwood"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Spike Jonze"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Kathryn Bigelow"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Martin Scorsese"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "David Fincher"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Clint Eastwood"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "David Fincher"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Tim Burton"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Martin Scorsese"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Ang Lee"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Michael Mann"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Edward Zwick"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Phillip Noyce"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Todd Field"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Steven Soderbergh"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Anthony Minghella"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Shekhar Kapur"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Curtis Hanson"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Joel Coen"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Ang Lee"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Quentin Tarantino"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Martin Scorsese"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "James Ivory"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Jonathan Demme"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Kevin Costner"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Kenneth Branagh"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Alan Parker"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Steven Spielberg"
+            }
+        ],
+        "NYFCC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Sean Baker"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Barry Jenkins"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Todd Haynes"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Richard Linklater"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Steve McQueen"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Kathryn Bigelow"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Michel Hazanavicius"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "David Fincher"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Kathryn Bigelow"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Mike Leigh"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Joel Coen and Ethan Coen"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Martin Scorsese"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Ang Lee"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Clint Eastwood"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Sofia Coppola"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Todd Haynes"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Robert Altman"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Steven Soderbergh"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Mike Leigh"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Terrence Malick"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Curtis Hanson"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Lars von Trier"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Ang Lee"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Quentin Tarantino"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Jane Campion"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Robert Altman"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Jonathan Demme"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Martin Scorsese"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Paul Mazursky"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Chris Menges"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "James L. Brooks"
+            }
+        ],
+        "LAFCA": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Guillermo del Toro/Luca Guadagnino"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Barry Jenkins"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "George Miller"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Richard Linklater"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Alfonso Cuarón"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Paul Thomas Anderson"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Terrence Malick"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "David Fincher/Olivier Assayas"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Kathryn Bigelow"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Danny Boyle"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Paul Thomas Anderson"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Paul Greengrass"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Ang Lee"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Alexander Payne"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Peter Jackson"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Pedro Almodóvar"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "David Lynch"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Steven Soderbergh"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Sam Mendes"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Steven Spielberg"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Curtis Hanson"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Mike Leigh"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Mike Figgis"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Quentin Tarantino"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Jane Campion"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Clint Eastwood"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Barry Levinson"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Martin Scorsese"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Spike Lee"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "David Cronenberg"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "John Boorman"
+            }
+        ],
+        "CFCA": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Christopher Nolan"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Barry Jenkins"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "George Miller"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Richard Linklater"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Steve McQueen"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Kathryn Bigelow"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Terrence Malick"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "David Fincher"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Kathryn Bigelow"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Danny Boyle"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Joel Coen and Ethan Coen"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Martin Scorsese"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "David Cronenberg"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Clint Eastwood"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Peter Jackson"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Todd Haynes"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "David Lynch"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Steven Soderbergh"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Sam Mendes"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Terrence Malick"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Curtis Hanson"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Joel Coen"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Oliver Stone"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Quentin Tarantino"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Steven Spielberg"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Robert Altman"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Jonathan Demme"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Martin Scorsese"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Spike Lee"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Robert Zemeckis"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "WAFCA": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Christopher Nolan"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Damien Chazelle"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "George Miller"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Richard Linklater"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Alfonso Cuarón"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Kathryn Bigelow"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Martin Scorsese"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "David Fincher"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Kathryn Bigelow"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Danny Boyle"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Joel Coen and Ethan Coen"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Martin Scorsese"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Steven Spielberg"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Michel Gondry"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Peter Jackson"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Denzel Washington/Sam Mendes/Spike Jonze"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "BSFC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Paul Thomas Anderson"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Damien Chazelle"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Todd Haynes"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Richard Linklater"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Steve McQueen"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Kathryn Bigelow"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Martin Scorsese"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "David Fincher"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Kathryn Bigelow"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Gus Van Sant"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Julian Schnabel"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Martin Scorsese"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Ang Lee"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Zhang Yimou"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Sofia Coppola"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Roman Polanski"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "David Lynch"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Cameron Crowe"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "David O. Russell"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "John Boorman"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Curtis Hanson"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Mike Leigh"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Ang Lee"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Quentin Tarantino"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Steven Spielberg"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Robert Altman"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Jonathan Demme"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Martin Scorsese"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Woody Allen"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Stephen Frears"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Stanley Kubrick"
+            }
+        ]
+    },
+    "Best Actor in a Leading Role": {
+        "Oscar": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Gary Oldman"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Casey Affleck"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Leonardo DiCaprio"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Eddie Redmayne"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Matthew McConaughey"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Daniel Day-Lewis"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Jean Dujardin"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Colin Firth"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Jeff Bridges"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Sean Penn"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Daniel Day-Lewis"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Forest Whitaker"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Philip Seymour Hoffman"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Jamie Foxx"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Sean Penn"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Adrien Brody"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Denzel Washington"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Russell Crowe"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Kevin Spacey"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Roberto Benigni"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Jack Nicholson"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Geoffrey Rush"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Nicolas Cage"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Tom Hanks"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Tom Hanks"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Al Pacino"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Anthony Hopkins"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Jeremy Irons"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Daniel Day-Lewis"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Dustin Hoffman"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Michael Douglas"
+            }
+        ]
     }
 }
