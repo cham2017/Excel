@@ -3,7 +3,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.12.0/d3.min.js"></script>
 <div id="content-wrapper">
   <div id="app" class="mui-container">
-      <div id="grid-heat" style="margin:0px;height:2000px;width:100%;padding:0;display:block;background-color:#fafafa;"></div>
+      <div id="grid-heat" style="margin:0px;height:650px;width:100%;padding:0;display:block;background-color:#fafafa;"></div>
   </div>
 </div>
 <script>
@@ -26,6 +26,8 @@ var Render = (function(ns) {
     activeBorderColor:"#3F51B5",
     activeBorderWidth:2
   };
+
+  ns.localization = {};
   
   /**
    * update the heat maps
@@ -45,7 +47,7 @@ var Render = (function(ns) {
           return {
             oc: ci,
             or: ri,
-            color: cell === row[1] ? "Green" : "Yellow",
+            color: (cell.trim() === row[1].trim() || (cell.trim() !== row[1].trim() && cell.trim().indexOf(row[1].trim()) >= 0))? "Green" : "Yellow",
             opacity: ns.getOpacity(row, cell)
             // value: ri ? row[3] : 0   // for this unplugged demo.use the elevation as theintensity
           };
@@ -116,11 +118,13 @@ var Render = (function(ns) {
   ns.getOpacity = function(row, cell) {
     var opacity = 0.3;
     var count = 0;
-    row.forEach(function(i) {
-      if (i === cell) {
-        count++;
-      }
-    });
+    if (cell.trim()) {
+      row.forEach(function(i) {
+        if (i.trim() === cell.trim() || i.trim().indexOf(cell.trim()) >= 0 || cell.trim().indexOf(i.trim()) >= 0) {
+          count++;
+        }
+      });
+    }
     opacity += count/row.length * 0.7;
     return opacity;
   };
@@ -179,7 +183,7 @@ var Render = (function(ns) {
       });
     // and text
     enter.select(".heattext")
-      .text(function(d) { return d.sheetValue })
+      .text(function(d) { return ns.localization[d.sheetValue.trim()] ? ns.localization[d.sheetValue.trim()] :  d.sheetValue})
       .style("fill", state.textColor)
       .style("font-size", function(d) {
         d.textLength = this.getComputedTextLength();
@@ -249,13 +253,16 @@ var Render = (function(ns) {
     return h.activerc && item.or === h.activerc.or && item.oc === h.activerc.oc;
   }
   
- 
-  
   return ns;
 })({});
+
+d3.json("localization.json", function(json) {
+  Render.localization = json;
+});
 
 d3.json("data.json", function(json) {
   Render.updateHeat("Best Picture", json);
 });
+
 
 </script>

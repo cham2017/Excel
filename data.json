@@ -3,7 +3,7 @@
         "Oscar": [
             {
                 "Year": "2018",
-                "Title": "Shape of Water"
+                "Title": "The Shape of Water"
             },
             {
                 "Year": "2017",
@@ -141,11 +141,11 @@
             },
             {
                 "Year": "2015",
-                "Title": "Birdman or (The Unexpected Virtue of Ignorance) "
+                "Title": "Birdman or (The Unexpected Virtue of Ignorance)"
             },
             {
                 "Year": "2014",
-                "Title": "12 Years a Slave"
+                "Title": "12 Years a Slave/Gravity"
             },
             {
                 "Year": "2013",
@@ -504,6 +504,132 @@
                 "Title": "Hope and Glory"
             }
         ],
+        "BFCA": [
+            {
+                "Year": "2018",
+                "Title": "The Shape of Water"
+            },
+            {
+                "Year": "2017",
+                "Title": "La La Land"
+            },
+            {
+                "Year": "2016",
+                "Title": "Spotlight"
+            },
+            {
+                "Year": "2015",
+                "Title": "Boyhood"
+            },
+            {
+                "Year": "2014",
+                "Title": "12 Years a Slave"
+            },
+            {
+                "Year": "2013",
+                "Title": "Argo"
+            },
+            {
+                "Year": "2012",
+                "Title": "The Artist"
+            },
+            {
+                "Year": "2011",
+                "Title": "The Social Network"
+            },
+            {
+                "Year": "2010",
+                "Title": "The Hurt Locker"
+            },
+            {
+                "Year": "2009",
+                "Title": "Slumdog Millionaire"
+            },
+            {
+                "Year": "2008",
+                "Title": "No Country for Old Men"
+            },
+            {
+                "Year": "2007",
+                "Title": "The Departed"
+            },
+            {
+                "Year": "2006",
+                "Title": "Brokeback Mountain"
+            },
+            {
+                "Year": "2005",
+                "Title": "Sideways"
+            },
+            {
+                "Year": "2004",
+                "Title": "The Lord of the Rings: The Return of the King "
+            },
+            {
+                "Year": "2003",
+                "Title": "Chicago "
+            },
+            {
+                "Year": "2002",
+                "Title": "A Beautiful Mind "
+            },
+            {
+                "Year": "2001",
+                "Title": "Gladiator "
+            },
+            {
+                "Year": "2000",
+                "Title": "American Beauty"
+            },
+            {
+                "Year": "1999",
+                "Title": "Saving Private Ryan "
+            },
+            {
+                "Year": "1998",
+                "Title": "L.A. Confidential "
+            },
+            {
+                "Year": "1997",
+                "Title": "Fargo"
+            },
+            {
+                "Year": "1996",
+                "Title": "Sense and Sensibility"
+            },
+            {
+                "Year": "1995",
+                "Title": ""
+            },
+            {
+                "Year": "1994",
+                "Title": ""
+            },
+            {
+                "Year": "1993",
+                "Title": ""
+            },
+            {
+                "Year": "1992",
+                "Title": ""
+            },
+            {
+                "Year": "1991",
+                "Title": ""
+            },
+            {
+                "Year": "1990",
+                "Title": ""
+            },
+            {
+                "Year": "1989",
+                "Title": ""
+            },
+            {
+                "Year": "1988",
+                "Title": ""
+            }
+        ],
         "BAFTA": [
             {
                 "Year": "2018",
@@ -630,6 +756,132 @@
                 "Title": "Jean de Florette"
             }
         ],
+        "NBR": [
+            {
+                "Year": "2018",
+                "Title": "The Post"
+            },
+            {
+                "Year": "2017",
+                "Title": "Manchester by the Sea"
+            },
+            {
+                "Year": "2016",
+                "Title": "Mad Max: Fury Road"
+            },
+            {
+                "Year": "2015",
+                "Title": "A Most Violent Year"
+            },
+            {
+                "Year": "2014",
+                "Title": "Her"
+            },
+            {
+                "Year": "2013",
+                "Title": "Zero Dark Thirty"
+            },
+            {
+                "Year": "2012",
+                "Title": "Hugo"
+            },
+            {
+                "Year": "2011",
+                "Title": "The Social Network"
+            },
+            {
+                "Year": "2010",
+                "Title": "Up in the Air"
+            },
+            {
+                "Year": "2009",
+                "Title": "Slumdog Millionaire"
+            },
+            {
+                "Year": "2008",
+                "Title": "No Country for Old Men"
+            },
+            {
+                "Year": "2007",
+                "Title": "Letters from Iwo Jima"
+            },
+            {
+                "Year": "2006",
+                "Title": "Good Night, and Good Luck."
+            },
+            {
+                "Year": "2005",
+                "Title": "Finding Neverland"
+            },
+            {
+                "Year": "2004",
+                "Title": "Mystic River"
+            },
+            {
+                "Year": "2003",
+                "Title": "The Hours"
+            },
+            {
+                "Year": "2002",
+                "Title": "Moulin Rouge!"
+            },
+            {
+                "Year": "2001",
+                "Title": "Quills"
+            },
+            {
+                "Year": "2000",
+                "Title": "American Beauty"
+            },
+            {
+                "Year": "1999",
+                "Title": "Gods and Monsters"
+            },
+            {
+                "Year": "1998",
+                "Title": "L.A. Confidential"
+            },
+            {
+                "Year": "1997",
+                "Title": "Shine"
+            },
+            {
+                "Year": "1996",
+                "Title": "Sense and Sensibility"
+            },
+            {
+                "Year": "1995",
+                "Title": "Pulp Fiction/Forrest Gump"
+            },
+            {
+                "Year": "1994",
+                "Title": "Schindler's List"
+            },
+            {
+                "Year": "1993",
+                "Title": "Howards End"
+            },
+            {
+                "Year": "1992",
+                "Title": "The Silence of the Lambs"
+            },
+            {
+                "Year": "1991",
+                "Title": "Dances with Wolves"
+            },
+            {
+                "Year": "1990",
+                "Title": "Driving Miss Daisy"
+            },
+            {
+                "Year": "1989",
+                "Title": "Mississippi Burning"
+            },
+            {
+                "Year": "1988",
+                "Title": ""
+            }
+        ],
         "NYFCC": [
             {
                 "Year": "2018",
@@ -754,6 +1006,510 @@
             {
                 "Year": "1988",
                 "Title": "Broadcast News"
+            }
+        ],
+        "LAFCA": [
+            {
+                "Year": "2018",
+                "Title": "Call Me by Your Name"
+            },
+            {
+                "Year": "2017",
+                "Title": "Moonlight"
+            },
+            {
+                "Year": "2016",
+                "Title": "Spotlight"
+            },
+            {
+                "Year": "2015",
+                "Title": "Boyhood"
+            },
+            {
+                "Year": "2014",
+                "Title": "Her/Gravity"
+            },
+            {
+                "Year": "2013",
+                "Title": "Amour"
+            },
+            {
+                "Year": "2012",
+                "Title": "The Descendants"
+            },
+            {
+                "Year": "2011",
+                "Title": "The Social Network"
+            },
+            {
+                "Year": "2010",
+                "Title": "The Hurt Locker"
+            },
+            {
+                "Year": "2009",
+                "Title": "WALL-E"
+            },
+            {
+                "Year": "2008",
+                "Title": "There Will Be Blood"
+            },
+            {
+                "Year": "2007",
+                "Title": "Letters from Iwo Jima"
+            },
+            {
+                "Year": "2006",
+                "Title": "Brokeback Mountain"
+            },
+            {
+                "Year": "2005",
+                "Title": "Sideways"
+            },
+            {
+                "Year": "2004",
+                "Title": "American Splendor"
+            },
+            {
+                "Year": "2003",
+                "Title": "About Schmidt"
+            },
+            {
+                "Year": "2002",
+                "Title": "In the Bedroom"
+            },
+            {
+                "Year": "2001",
+                "Title": "Crouching Tiger, Hidden Dragon"
+            },
+            {
+                "Year": "2000",
+                "Title": "The Insider"
+            },
+            {
+                "Year": "1999",
+                "Title": "Saving Private Ryan"
+            },
+            {
+                "Year": "1998",
+                "Title": "L.A. Confidential"
+            },
+            {
+                "Year": "1997",
+                "Title": "Secrets & Lies"
+            },
+            {
+                "Year": "1996",
+                "Title": "Leaving Las Vegas"
+            },
+            {
+                "Year": "1995",
+                "Title": "Pulp Fiction"
+            },
+            {
+                "Year": "1994",
+                "Title": "Schindler's List"
+            },
+            {
+                "Year": "1993",
+                "Title": "Unforgiven"
+            },
+            {
+                "Year": "1992",
+                "Title": "Bugsy"
+            },
+            {
+                "Year": "1991",
+                "Title": "Goodfellas"
+            },
+            {
+                "Year": "1990",
+                "Title": "Do the Right Thing"
+            },
+            {
+                "Year": "1989",
+                "Title": "Little Dorrit"
+            },
+            {
+                "Year": "1988",
+                "Title": "Hope and Glory"
+            }
+        ],
+        "CFCA": [
+            {
+                "Year": "2018",
+                "Title": "Lady Bird"
+            },
+            {
+                "Year": "2017",
+                "Title": "Moonlight"
+            },
+            {
+                "Year": "2016",
+                "Title": "Mad Max: Fury Road"
+            },
+            {
+                "Year": "2015",
+                "Title": "Boyhood"
+            },
+            {
+                "Year": "2014",
+                "Title": "12 Years a Slave"
+            },
+            {
+                "Year": "2013",
+                "Title": "Zero Dark Thirty"
+            },
+            {
+                "Year": "2012",
+                "Title": "The Tree of Life"
+            },
+            {
+                "Year": "2011",
+                "Title": "The Social Network"
+            },
+            {
+                "Year": "2010",
+                "Title": "The Hurt Locker"
+            },
+            {
+                "Year": "2009",
+                "Title": "WALL-E"
+            },
+            {
+                "Year": "2008",
+                "Title": "No Country for Old Men"
+            },
+            {
+                "Year": "2007",
+                "Title": "The Departed"
+            },
+            {
+                "Year": "2006",
+                "Title": "Crash"
+            },
+            {
+                "Year": "2005",
+                "Title": "Sideways"
+            },
+            {
+                "Year": "2004",
+                "Title": "The Lord of the Rings: The Return of the King"
+            },
+            {
+                "Year": "2003",
+                "Title": "Far from Heaven"
+            },
+            {
+                "Year": "2002",
+                "Title": "Mulholland Drive"
+            },
+            {
+                "Year": "2001",
+                "Title": "Almost Famous"
+            },
+            {
+                "Year": "2000",
+                "Title": "American Beauty"
+            },
+            {
+                "Year": "1999",
+                "Title": "Saving Private Ryan"
+            },
+            {
+                "Year": "1998",
+                "Title": "L.A. Confidential"
+            },
+            {
+                "Year": "1997",
+                "Title": "Fargo"
+            },
+            {
+                "Year": "1996",
+                "Title": "Apollo 13"
+            },
+            {
+                "Year": "1995",
+                "Title": "Hoop Dreams"
+            },
+            {
+                "Year": "1994",
+                "Title": "Schindler's List"
+            },
+            {
+                "Year": "1993",
+                "Title": "Malcolm X"
+            },
+            {
+                "Year": "1992",
+                "Title": "The Silence of the Lambs"
+            },
+            {
+                "Year": "1991",
+                "Title": "Goodfellas"
+            },
+            {
+                "Year": "1990",
+                "Title": "Do the Right Thing"
+            },
+            {
+                "Year": "1989",
+                "Title": "Mississippi Burning"
+            },
+            {
+                "Year": "1988",
+                "Title": ""
+            }
+        ],
+        "WAFCA": [
+            {
+                "Year": "2018",
+                "Title": "Get Out"
+            },
+            {
+                "Year": "2017",
+                "Title": "La La Land"
+            },
+            {
+                "Year": "2016",
+                "Title": "Spotlight"
+            },
+            {
+                "Year": "2015",
+                "Title": "Boyhood"
+            },
+            {
+                "Year": "2014",
+                "Title": "12 Years a Slave"
+            },
+            {
+                "Year": "2013",
+                "Title": "Zero Dark Thirty"
+            },
+            {
+                "Year": "2012",
+                "Title": "The Artist"
+            },
+            {
+                "Year": "2011",
+                "Title": "The Social Network"
+            },
+            {
+                "Year": "2010",
+                "Title": "Up in the Air"
+            },
+            {
+                "Year": "2009",
+                "Title": "Slumdog Millionaire"
+            },
+            {
+                "Year": "2008",
+                "Title": "No Country for Old Men"
+            },
+            {
+                "Year": "2007",
+                "Title": "United 93"
+            },
+            {
+                "Year": "2006",
+                "Title": "Munich"
+            },
+            {
+                "Year": "2005",
+                "Title": "Eternal Sunshine of the Spotless Mind"
+            },
+            {
+                "Year": "2004",
+                "Title": "The Lord of the Rings: The Return of the King"
+            },
+            {
+                "Year": "2003",
+                "Title": "Road to Perdition"
+            },
+            {
+                "Year": "2002",
+                "Title": ""
+            },
+            {
+                "Year": "2001",
+                "Title": ""
+            },
+            {
+                "Year": "2000",
+                "Title": ""
+            },
+            {
+                "Year": "1999",
+                "Title": ""
+            },
+            {
+                "Year": "1998",
+                "Title": ""
+            },
+            {
+                "Year": "1997",
+                "Title": ""
+            },
+            {
+                "Year": "1996",
+                "Title": ""
+            },
+            {
+                "Year": "1995",
+                "Title": ""
+            },
+            {
+                "Year": "1994",
+                "Title": ""
+            },
+            {
+                "Year": "1993",
+                "Title": ""
+            },
+            {
+                "Year": "1992",
+                "Title": ""
+            },
+            {
+                "Year": "1991",
+                "Title": ""
+            },
+            {
+                "Year": "1990",
+                "Title": ""
+            },
+            {
+                "Year": "1989",
+                "Title": ""
+            },
+            {
+                "Year": "1988",
+                "Title": ""
+            }
+        ],
+        "BSFC": [
+            {
+                "Year": "2018",
+                "Title": "Phantom Thread"
+            },
+            {
+                "Year": "2017",
+                "Title": "La La Land"
+            },
+            {
+                "Year": "2016",
+                "Title": "Spotlight"
+            },
+            {
+                "Year": "2015",
+                "Title": "Boyhood"
+            },
+            {
+                "Year": "2014",
+                "Title": "12 Years a Slave"
+            },
+            {
+                "Year": "2013",
+                "Title": "Zero Dark Thirty"
+            },
+            {
+                "Year": "2012",
+                "Title": "The Artist"
+            },
+            {
+                "Year": "2011",
+                "Title": "The Social Network"
+            },
+            {
+                "Year": "2010",
+                "Title": "The Hurt Locker"
+            },
+            {
+                "Year": "2009",
+                "Title": "Slumdog Millionaire/WALL-E"
+            },
+            {
+                "Year": "2008",
+                "Title": "No Country for Old Men"
+            },
+            {
+                "Year": "2007",
+                "Title": "The Departed"
+            },
+            {
+                "Year": "2006",
+                "Title": "Brokeback Mountain"
+            },
+            {
+                "Year": "2005",
+                "Title": "Sideways"
+            },
+            {
+                "Year": "2004",
+                "Title": "Mystic River"
+            },
+            {
+                "Year": "2003",
+                "Title": "The Pianist"
+            },
+            {
+                "Year": "2002",
+                "Title": "Mulholland Drive"
+            },
+            {
+                "Year": "2001",
+                "Title": "Almost Famous"
+            },
+            {
+                "Year": "2000",
+                "Title": "Three Kings"
+            },
+            {
+                "Year": "1999",
+                "Title": "Out of Sight"
+            },
+            {
+                "Year": "1998",
+                "Title": "L.A. Confidential"
+            },
+            {
+                "Year": "1997",
+                "Title": "Trainspotting"
+            },
+            {
+                "Year": "1996",
+                "Title": "Sense and Sensibility"
+            },
+            {
+                "Year": "1995",
+                "Title": "Pulp Fiction"
+            },
+            {
+                "Year": "1994",
+                "Title": "Schindler's List"
+            },
+            {
+                "Year": "1993",
+                "Title": "Unforgiven"
+            },
+            {
+                "Year": "1992",
+                "Title": "The Silence of the Lambs"
+            },
+            {
+                "Year": "1991",
+                "Title": "Goodfellas"
+            },
+            {
+                "Year": "1990",
+                "Title": "Crimes and Misdemeanors"
+            },
+            {
+                "Year": "1989",
+                "Title": "Bull Durham"
+            },
+            {
+                "Year": "1988",
+                "Title": "Hope and Glory"
             }
         ]
     }
