@@ -252,6 +252,132 @@
                 "Title": ""
             }
         ],
+        "SAG": [
+            {
+                "Year": "2018",
+                "Title": "Three Billboards Outside Ebbing, Missouri"
+            },
+            {
+                "Year": "2017",
+                "Title": "Hidden Figures"
+            },
+            {
+                "Year": "2016",
+                "Title": "Spotlight"
+            },
+            {
+                "Year": "2015",
+                "Title": "Birdman or (The Unexpected Virtue of Ignorance)"
+            },
+            {
+                "Year": "2014",
+                "Title": "American Hustle"
+            },
+            {
+                "Year": "2013",
+                "Title": "Argo"
+            },
+            {
+                "Year": "2012",
+                "Title": "The Help"
+            },
+            {
+                "Year": "2011",
+                "Title": "The King's Speech"
+            },
+            {
+                "Year": "2010",
+                "Title": "Inglourious Basterds"
+            },
+            {
+                "Year": "2009",
+                "Title": "Slumdog Millionaire"
+            },
+            {
+                "Year": "2008",
+                "Title": "No Country for Old Men"
+            },
+            {
+                "Year": "2007",
+                "Title": "Little Miss Sunshine"
+            },
+            {
+                "Year": "2006",
+                "Title": "Crash"
+            },
+            {
+                "Year": "2005",
+                "Title": "Sideways"
+            },
+            {
+                "Year": "2004",
+                "Title": "The Lord of the Rings: The Return of the King"
+            },
+            {
+                "Year": "2003",
+                "Title": "Chicago"
+            },
+            {
+                "Year": "2002",
+                "Title": "Gosford Park"
+            },
+            {
+                "Year": "2001",
+                "Title": "Traffic"
+            },
+            {
+                "Year": "2000",
+                "Title": "American Beauty"
+            },
+            {
+                "Year": "1999",
+                "Title": "Shakespeare in Love"
+            },
+            {
+                "Year": "1998",
+                "Title": "The Full Monty"
+            },
+            {
+                "Year": "1997",
+                "Title": "The Birdcage"
+            },
+            {
+                "Year": "1996",
+                "Title": "Apollo 13"
+            },
+            {
+                "Year": "1995",
+                "Title": ""
+            },
+            {
+                "Year": "1994",
+                "Title": ""
+            },
+            {
+                "Year": "1993",
+                "Title": ""
+            },
+            {
+                "Year": "1992",
+                "Title": ""
+            },
+            {
+                "Year": "1991",
+                "Title": ""
+            },
+            {
+                "Year": "1990",
+                "Title": ""
+            },
+            {
+                "Year": "1989",
+                "Title": ""
+            },
+            {
+                "Year": "1988",
+                "Title": ""
+            }
+        ],
         "GG(Drama)": [
             {
                 "Year": "2018",
@@ -5125,6 +5251,5350 @@
                 "Year": "1988",
                 "Title": "",
                 "Winner": "Albert Brooks"
+            }
+        ]
+    },
+    "Best Actress in a Leading Role": {
+        "Oscar": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Frances McDormand"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Emma Stone"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Brie Larson"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Julianne Moore"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Jennifer Lawrence"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Meryl Streep"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Natalie Portman"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Sandra Bullock"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Kate Winslet"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Marion Cotillard"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Helen Mirren"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Reese Witherspoon"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Hilary Swank"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Charlize Theron"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Nicole Kidman"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Halle Berry"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Julia Roberts"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Hilary Swank"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Gwyneth Paltrow"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Helen Hunt"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Frances McDormand"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Susan Sarandon"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Jessica Lange"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Holly Hunter"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Emma Thompson"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Jodie Foster"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Kathy Bates"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Jessica Tandy"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Jodie Foster"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Cher"
+            }
+        ],
+        "SAG": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Frances McDormand"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Emma Stone"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Brie Larson"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Julianne Moore"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Jennifer Lawrence"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Viola Davis"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Natalie Portman"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Sandra Bullock"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Meryl Streep"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Julie Christie"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Helen Mirren"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Reese Witherspoon"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Hilary Swank"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Charlize Theron"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Renée Zellweger"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Halle Berry"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Julia Roberts"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Annette Bening"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Gwyneth Paltrow"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Helen Hunt"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Frances McDormand"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Susan Sarandon"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Jodie Foster"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "GG(Drama)": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Frances McDormand"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Isabelle Huppert"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Brie Larson"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Julianne Moore"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Jessica Chastain"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Meryl Streep"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Natalie Portman"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Sandra Bullock"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Kate Winslet"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Julie Christie"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Helen Mirren"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Felicity Huffman"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Hilary Swank"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Charlize Theron"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Nicole Kidman"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Sissy Spacek"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Julia Roberts"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Hilary Swank"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Judi Dench"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Brenda Blethyn"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Sharon Stone"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Jessica Lange"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Holly Hunter"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Emma Thompson"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Jodie Foster"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Kathy Bates"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Michelle Pfeiffer"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Sigourney Weaver/Shirley MacLaine/Jodie Foster"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Sally Kirkland"
+            }
+        ],
+        "GG(Musical/Comedy)": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Saoirse Ronan"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Emma Stone"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Jennifer Lawrence"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Amy Adams"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Amy Adams"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Jennifer Lawrence"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Michelle Williams"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Annette Bening"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Meryl Streep"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Sally Hawkins"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Marion Cotillard"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Meryl Streep"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Reese Witherspoon"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Annette Bening"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Diane Keaton"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Renée Zellweger"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Nicole Kidman"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Renée Zellweger"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Janet McTeer"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Gwyneth Paltrow"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Helen Hunt"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Madonna"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Nicole Kidman"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Jamie Lee Curtis"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Angela Bassett"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Miranda Richardson"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Bette Midler"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Julia Roberts"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Jessica Tandy"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Melanie Griffith"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Cher"
+            }
+        ],
+        "BFCA": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Frances McDormand"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Natalie Portman"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Brie Larson"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Julianne Moore"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Jessica Chastain"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Viola Davis"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Natalie Portman"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Meryl Streep/Sandra Bullock"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Meryl Streep/Anne Hathaway"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Julie Christie"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Helen Mirren"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Reese Witherspoon"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Hilary Swank"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Charlize Theron"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Julianne Moore"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Sissy Spacek"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Julia Roberts"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Hilary Swank"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Helena Bonham Carter"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Frances McDormand"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Nicole Kidman"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "BAFTA": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Frances McDormand"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Emma Stone"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Brie Larson"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Julianne Moore"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Emmanuelle Riva"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Meryl Streep"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Natalie Portman"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Carey Mulligan"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Kate Winslet"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Marion Cotillard"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Helen Mirren"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Reese Witherspoon"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Imelda Staunton"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Scarlett Johansson"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Nicole Kidman"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Judi Dench"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Julia Roberts"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Annette Bening"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Judi Dench"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Brenda Blethyn"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Emma Thompson"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Susan Sarandon"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Holly Hunter"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Emma Thompson"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Jodie Foster"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Jessica Tandy"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Pauline Collins"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Maggie Smith"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Anne Bancroft"
+            }
+        ],
+        "NBR": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Meryl Streep"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Amy Adams"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Brie Larson"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Julianne Moore"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Emma Thompson"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Jessica Chastain"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Tilda Swinton"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Lesley Manville"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Carey Mulligan"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Anne Hathaway"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Julie Christie"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Helen Mirren"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Felicity Huffman"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Annette Bening"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Diane Keaton"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Julianne Moore"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Halle Berry"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Julia Roberts"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Janet McTeer"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Fernanda Montenegro"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Helena Bonham Carter"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Frances McDormand"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Emma Thompson"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Miranda Richardson"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Holly Hunter"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Emma Thompson"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Susan Sarandon/Geena Davis"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Mia Farrow"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Michelle Pfeiffer"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Jodie Foster"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Holly Hunter/Lillian Gish"
+            }
+        ],
+        "NYFCC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Saoirse Ronan"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Isabelle Huppert"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Saoirse Ronan"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Marion Cotillard"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Rachel Weisz"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Meryl Streep"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Annette Bening"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Meryl Streep"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Sally Hawkins"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Julie Christie"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Helen Mirren"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Reese Witherspoon"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Imelda Staunton"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Hope Davis"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Diane Lane"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Sissy Spacek"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Laura Linney"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Hilary Swank"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Cameron Diaz"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Julie Christie"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Emily Watson"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Jennifer Jason Leigh"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Linda Fiorentino"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Holly Hunter"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Emma Thompson"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Jodie Foster"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Joanne Woodward"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Michelle Pfeiffer"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Meryl Streep"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Holly Hunter"
+            }
+        ],
+        "LAFCA": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Sally Hawkins"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Isabelle Huppert"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Charlotte Rampling"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Patricia Arquette"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Adèle Exarchopoulos/Cate Blanchett"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Emmanuelle Riva/Jennifer Lawrence"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Yoon Jeong-hee"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Kim Hye-ja"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Yolande Moreau"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Sally Hawkins"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Marion Cotillard"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Helen Mirren"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Vera Farmiga"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Imelda Staunton"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Naomi Watts"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Julianne Moore"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Sissy Spacek"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Julia Roberts"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Hilary Swank"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Ally Sheedy/Fernanda Montenegro"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Helena Bonham Carter"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Brenda Blethyn"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Elisabeth Shue"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Jessica Lange"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Holly Hunter"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Emma Thompson"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Mercedes Ruehl"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Anjelica Huston"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Michelle Pfeiffer/Andie MacDowell"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Christine Lahti"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Sally Kirkland/Holly Hunter"
+            }
+        ],
+        "CFCA": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Saoirse Ronan"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Natalie Portman"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Brie Larson"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Julianne Moore"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Jessica Chastain"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Michelle Williams"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Natalie Portman"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Carey Mulligan"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Anne Hathaway"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Ellen Page"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Helen Mirren"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Joan Allen"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Imelda Staunton"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Charlize Theron"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Julianne Moore"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Naomi Watts"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Ellen Burstyn"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Hilary Swank"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Judi Dench"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Frances McDormand"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Elisabeth Shue"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Jennifer Jason Leigh"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Holly Hunter"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Emma Thompson"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Jodie Foster"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Kathy Bates"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Michelle Pfeiffer"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Barbara Hershey"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "WAFCA": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Frances McDormand"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Natalie Portman"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Saoirse Ronan"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Julianne Moore"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Jessica Chastain"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Michelle Williams"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Jennifer Lawrence"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Carey Mulligan"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Meryl Streep"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Julie Christie"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Helen Mirren"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Reese Witherspoon"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Imelda Staunton"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Naomi Watts"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Julianne Moore"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "BSFC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Sally Hawkins"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Isabelle Huppert"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Charlotte Rampling"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Marion Cotillard"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Emmanuelle Riva"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Michelle Williams"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Natalie Portman"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Meryl Streep"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Sally Hawkins"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Marion Cotillard"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Helen Mirren"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Reese Witherspoon"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Hilary Swank"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Scarlett Johansson"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Maggie Gyllenhaal"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Tilda Swinton"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Ellen Burstyn"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Hilary Swank"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Samantha Morton"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Helena Bonham Carter"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Brenda Blethyn"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Nicole Kidman"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Julianne Moore"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Holly Hunter"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Emma Thompson"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Geena Davis"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Anjelica Huston"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Jessica Tandy"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Melanie Griffith"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Holly Hunter"
+            }
+        ]
+    },
+    "Best Actor in a Supporting Role": {
+        "Oscar": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Sam Rockwell"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Mahershala Ali"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Mark Rylance"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "J. K. Simmons"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Jared Leto"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Christoph Waltz"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Christopher Plummer"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Christian Bale"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Christoph Waltz"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Heath Ledger"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Javier Bardem"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Alan Arkin"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "George Clooney"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Morgan Freeman"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Tim Robbins"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Chris Cooper"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Jim Broadbent"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Benicio del Toro"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Michael Caine"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "James Coburn"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Robin Williams"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Cuba Gooding Jr."
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Kevin Spacey"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Martin Landau"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Tommy Lee Jones"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Gene Hackman"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Jack Palance"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Joe Pesci"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Denzel Washington"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Kevin Kline"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Sean Connery"
+            }
+        ],
+        "SAG": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Sam Rockwell"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Mahershala Ali"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Idris Elba"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "J. K. Simmons"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Jared Leto"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Tommy Lee Jones"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Christopher Plummer"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Christian Bale"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Christoph Waltz"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Heath Ledger"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Javier Bardem"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Eddie Murphy"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Paul Giamatti"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Morgan Freeman"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Tim Robbins"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Christopher Walken"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Ian McKellen"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Albert Finney"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Michael Caine"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Robert Duvall"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Robin Williams"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Cuba Gooding Jr."
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Ed Harris"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Martin Landau"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "GG": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Sam Rockwell"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Aaron Taylor-Johnson"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Sylvester Stallone"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "J. K. Simmons"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Jared Leto"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Christoph Waltz"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Christopher Plummer"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Christian Bale"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Christoph Waltz"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Heath Ledger"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Javier Bardem"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Eddie Murphy"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "George Clooney"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Clive Owen"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Tim Robbins"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Chris Cooper"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Jim Broadbent"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Benicio del Toro"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Tom Cruise"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Ed Harris"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Burt Reynolds"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Edward Norton"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Brad Pitt"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Martin Landau"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Tommy Lee Jones"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Gene Hackman"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Jack Palance"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Bruce Davison"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Denzel Washington"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Martin Landau"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Sean Connery"
+            }
+        ],
+        "BFCA": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Sam Rockwell"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Mahershala Ali"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Sylvester Stallone"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "J. K. Simmons"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Jared Leto"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Philip Seymour Hoffman"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Christopher Plummer"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Christian Bale"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Christoph Waltz"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Heath Ledger"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Javier Bardem"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Eddie Murphy"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Paul Giamatti"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Thomas Haden Church"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Tim Robbins"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Chris Cooper"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Ben Kingsley"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Joaquin Phoenix"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Michael Clarke Duncan"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Billy Bob Thornton"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Anthony Hopkins"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Cuba Gooding Jr."
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Kevin Spacey/Ed Harris"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "BAFTA": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Sam Rockwell"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Dev Patel"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Mark Rylance"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "J. K. Simmons"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Barkhad Abdi"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Christoph Waltz"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Christopher Plummer"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Geoffrey Rush"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Christoph Waltz"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Heath Ledger"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Javier Bardem"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Alan Arkin"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Jake Gyllenhaal"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Clive Owen"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Bill Nighy"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Christopher Walken"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Jim Broadbent"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Benicio del Toro"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Jude Law"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Geoffrey Rush"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Tom Wilkinson"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Paul Scofield"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Tim Roth"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Samuel L. Jackson"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Ralph Fiennes"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Gene Hackman"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Alan Rickman"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Salvatore Cascio"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Ray McAnally"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Michael Palin"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Daniel Auteuil"
+            }
+        ],
+        "NBR": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Willem Dafoe"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Jeff Bridges"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Sylvester Stallone"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Edward Norton"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Will Forte"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Leonardo DiCaprio"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Christopher Plummer"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Christian Bale"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Woody Harrelson"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Josh Brolin"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Casey Affleck"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Djimon Hounsou"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Jake Gyllenhaal"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Thomas Haden Church"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Alec Baldwin"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Chris Cooper"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Jim Broadbent"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Joaquin Phoenix"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Philip Seymour Hoffman"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Ed Harris"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Greg Kinnear"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Edward Norton"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Kevin Spacey"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Gary Sinise"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Leonardo DiCaprio"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Jack Nicholson"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Anthony Hopkins"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Joe Pesci"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Alan Alda"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "River Phoenix"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Sean Connery"
+            }
+        ],
+        "NYFCC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Willem Dafoe"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Mahershala Ali"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Mark Rylance"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "J. K. Simmons"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Jared Leto"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Matthew McConaughey"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Albert Brooks"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Mark Ruffalo"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Christoph Waltz"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Josh Brolin"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Javier Bardem"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Jackie Earle Haley"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "William Hurt"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Clive Owen"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Eugene Levy"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Dennis Quaid"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Steve Buscemi"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Benicio del Toro"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "John Malkovich"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Bill Murray"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Burt Reynolds"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Harry Belafonte"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Kevin Spacey"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Martin Landau"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Ralph Fiennes"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Gene Hackman"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Samuel L. Jackson"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Bruce Davison"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Alan Alda"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Dean Stockwell"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Morgan Freeman"
+            }
+        ],
+        "LAFCA": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Willem Dafoe"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Mahershala Ali"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Michael Shannon"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "J. K. Simmons"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Jared Leto/James Franco"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Dwight Henry"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Christopher Plummer"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Niels Arestrup"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Christoph Waltz"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Heath Ledger"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Vlad Ivanov"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Michael Sheen"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "William Hurt"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Thomas Haden Church"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Bill Nighy"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Chris Cooper"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Jim Broadbent"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Willem Dafoe"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Christopher Plummer"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Billy Bob Thornton/Bill Murray"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Burt Reynolds"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Edward Norton"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Don Cheadle"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Martin Landau"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Tommy Lee Jones"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Gene Hackman"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Michael Lerner"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Joe Pesci"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Danny Aiello"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Alec Guinness"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Morgan Freeman"
+            }
+        ],
+        "CFCA": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Willem Dafoe"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Mahershala Ali"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Benicio Del Toro"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "J. K. Simmons"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Jared Leto"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Philip Seymour Hoffman"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Albert Brooks"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Christian Bale"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Christoph Waltz"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Heath Ledger"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Javier Bardem"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Jackie Earle Haley"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Mickey Rourke"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Thomas Haden Church"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Tim Robbins"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Dennis Quaid"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Steve Buscemi"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Benicio del Toro"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Tom Cruise"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Billy Bob Thornton"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Burt Reynolds"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Cuba Gooding Jr."
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Kevin Spacey"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Martin Landau"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Ralph Fiennes"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Jack Nicholson"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Harvey Keitel"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Joe Pesci"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Danny Aiello"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Martin Landau"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "WAFCA": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Sam Rockwell"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Mahershala Ali"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Idris Elba"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "J. K. Simmons"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Jared Leto"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Philip Seymour Hoffman"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Albert Brooks"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Christian Bale"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Christoph Waltz"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Heath Ledger"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Javier Bardem"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Djimon Hounsou"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Paul Giamatti"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Jamie Foxx"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Benicio del Toro"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Chris Cooper/Dennis Haysbert"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "BSFC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Willem Dafoe"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Mahershala Ali"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Mark Rylance"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "J. K. Simmons"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "James Gandolfini"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Ezra Miller"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Albert Brooks"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Christian Bale"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Christoph Waltz"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Heath Ledger"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Javier Bardem"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Mark Wahlberg"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Paul Giamatti"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Thomas Haden Church"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Peter Sarsgaard"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Alan Arkin"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Ben Kingsley"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Fred Willard"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Christopher Plummer"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Billy Bob Thornton/William H. Macy"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Kevin Spacey"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Edward Norton"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Kevin Spacey"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Martin Landau"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Ralph Fiennes"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Gene Hackman"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Anthony Hopkins"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Joe Pesci"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Danny Aiello"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Dean Stockwell"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "R. Lee Ermey"
+            }
+        ]
+    },
+    "Best Actress in a Supporting Role": {
+        "Oscar": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Allison Janney"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Viola Davis"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Alicia Vikander"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Patricia Arquette"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Lupita Nyong'o"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Anne Hathaway"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Octavia Spencer"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Melissa Leo"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Mo'Nique"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Penélope Cruz"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Tilda Swinton"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Jennifer Hudson"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Rachel Weisz"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Renée Zellweger"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Catherine Zeta-Jones"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Jennifer Connelly"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Marcia Gay Harden"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Angelina Jolie"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Judi Dench"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Kim Basinger"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Juliette Binoche"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Mira Sorvino"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Dianne Wiest"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Anna Paquin"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Marisa Tomei"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Mercedes Ruehl"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Whoopi Goldberg"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Brenda Fricker"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Geena Davis"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Olympia Dukakis"
+            }
+        ],
+        "SAG": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Allison Janney"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Viola Davis"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Alicia Vikander"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Patricia Arquette"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Lupita Nyong'o"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Anne Hathaway"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Octavia Spencer"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Melissa Leo"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Mo'Nique"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Kate Winslet"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Ruby Dee"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Jennifer Hudson"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Rachel Weisz"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Renée Zellweger"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Catherine Zeta-Jones"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Helen Mirren"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Judi Dench"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Angelina Jolie"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Kathy Bates"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Gloria Stuart/Kim Basinger"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Lauren Bacall"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Kate Winslet"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Dianne Wiest"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "GG": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Allison Janney"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Viola Davis"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Kate Winslet"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Patricia Arquette"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Jennifer Lawrence"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Anne Hathaway"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Octavia Spencer"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Melissa Leo"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Mo'Nique"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Kate Winslet"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Jennifer Hudson"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Rachel Weisz"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Natalie Portman"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Renée Zellweger"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Meryl Streep"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Jennifer Connelly"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Kate Hudson"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Angelina Jolie"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Lynn Redgrave"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Kim Basinger"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Lauren Bacall"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Mira Sorvino"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Dianne Wiest"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Winona Ryder"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Joan Plowright"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Mercedes Ruehl"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Whoopi Goldberg"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Julia Roberts"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Sigourney Weaver"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Olympia Dukakis"
+            }
+        ],
+        "BFCA": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Allison Janney"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Viola Davis"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Alicia Vikander"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Patricia Arquette"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Lupita Nyong'o"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Anne Hathaway"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Octavia Spencer"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Melissa Leo"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Mo'Nique"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Kate Winslet"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Amy Ryan"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Jennifer Hudson"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Michelle Williams/Amy Adams"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Virginia Madsen"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Renée Zellweger"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Catherine Zeta-Jones"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Jennifer Connelly"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Frances McDormand"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Angelina Jolie"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Kathy Bates/Joan Allen"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Joan Cusack"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Joan Allen"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Mira Sorvino"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "BAFTA": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Allison Janney"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Viola Davis"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Kate Winslet"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Patricia Arquette"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Jennifer Lawrence"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Anne Hathaway"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Octavia Spencer"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Helena Bonham Carter"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Mo'Nique"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Penélope Cruz"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Tilda Swinton"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Jennifer Hudson"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Thandie Newton"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Renée Zellweger"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Catherine Zeta-Jones"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Jennifer Connelly"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Julie Walters"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Maggie Smith"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Judi Dench"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Sigourney Weaver"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Juliette Binoche"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Kate Winslet"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Kristin Scott Thomas"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Miriam Margolyes"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Miranda Richardson"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Kate Nelligan"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Whoopi Goldberg"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Michelle Pfeiffer"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Judi Dench"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Susan Wooldridge"
+            }
+        ],
+        "NBR": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Laurie Metcalf"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Naomie Harris"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Jennifer Jason Leigh"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Jessica Chastain"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Octavia Spencer"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Ann Dowd"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Shailene Woodley"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Jacki Weaver"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Anna Kendrick"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Penélope Cruz"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Amy Ryan"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Catherine O'Hara"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Gong Li"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Laura Linney"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Patricia Clarkson"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Kathy Bates"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Lupe Ontiveros"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Julianne Moore"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Christina Ricci"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Anne Heche"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Kristin Scott Thomas/Juliette Binoche"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Mira Sorvino"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Rosemary Harris"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Winona Ryder"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Judy Davis"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Kate Nelligan"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Winona Ryder"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Mary Stuart Masterson"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Frances McDormand"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Olympia Dukakis"
+            }
+        ],
+        "NYFCC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Tiffany Haddish"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Michelle Williams"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Kristen Stewart"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Patricia Arquette"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Jennifer Lawrence"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Sally Field"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Jessica Chastain"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Melissa Leo"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Mo'Nique"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Penélope Cruz"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Amy Ryan"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Jennifer Hudson"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Maria Bello"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Virginia Madsen"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Shohreh Aghdashloo"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Patricia Clarkson"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Helen Mirren"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Marcia Gay Harden"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Catherine Keener"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Lisa Kudrow"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Joan Cusack"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Courtney Love"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Mira Sorvino"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Dianne Wiest"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Gong Li"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Miranda Richardson"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Judy Davis"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Jennifer Jason Leigh"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Lena Olin"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Diane Venora"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Vanessa Redgrave"
+            }
+        ],
+        "LAFCA": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Laurie Metcalf"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Lily Gladstone"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Alicia Vikander"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Agata Kulesza"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Lupita Nyong'o"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Amy Adams"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Jessica Chastain"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Jacki Weaver"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Mo'Nique"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Penélope Cruz"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Amy Ryan"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Luminița Gheorghiu"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Catherine Keener"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Virginia Madsen"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Shohreh Aghdashloo"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Edie Falco"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Kate Winslet"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Frances McDormand"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Chloë Sevigny"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Joan Allen"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Julianne Moore"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Barbara Hershey"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Joan Allen"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Dianne Wiest"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Rosie Perez/Anna Paquin"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Judy Davis"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Jane Horrocks"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Lorraine Bracco"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Brenda Fricker"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Geneviève Bujold"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Olympia Dukakis"
+            }
+        ],
+        "CFCA": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Laurie Metcalf"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Michelle Williams"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Alicia Vikander"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Patricia Arquette"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Lupita Nyong'o"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Amy Adams"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Jessica Chastain"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Hailee Steinfeld"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Mo'Nique"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Kate Winslet"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Rinko Kikuchi"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Maria Bello"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Virginia Madsen"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Patricia Clarkson"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Meryl Streep"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Cameron Diaz"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Frances McDormand"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Chloë Sevigny"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Kathy Bates"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Debbi Morgan"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Irma P. Hall"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Joan Allen"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Dianne Wiest"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Rosie Perez"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Judy Davis"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Mercedes Ruehl"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Lorraine Bracco"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Laura San Giacomo"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Frances McDormand"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "WAFCA": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Laurie Metcalf"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Viola Davis"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Alicia Vikander"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Patricia Arquette"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Lupita Nyong'o"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Anne Hathaway"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Octavia Spencer"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Melissa Leo"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Mo'Nique"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Rosemarie DeWitt"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Amy Ryan"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Jennifer Hudson"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Amy Adams"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Anna Deavere Smith"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Kathy Bates"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "BSFC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Laurie Metcalf"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Lily Gladstone"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Kristen Stewart"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Emma Stone"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "June Squibb"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Sally Field"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Melissa McCarthy"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Juliette Lewis"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Mo'Nique"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Penélope Cruz"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Amy Ryan"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Shareeka Epps"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Catherine Keener"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Laura Dern/Sharon Warren"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Patricia Clarkson"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Toni Collette"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Cameron Diaz"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Frances McDormand"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Chloë Sevigny"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Joan Allen"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Sarah Polley"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Courtney Love"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Joan Allen"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Kirsten Dunst"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Rosie Perez"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Judy Davis"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Mercedes Ruehl"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Jennifer Jason Leigh"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Brenda Fricker"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Joan Cusack"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Kathy Baker"
             }
         ]
     }
