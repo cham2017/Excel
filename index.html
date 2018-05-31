@@ -12,6 +12,7 @@
           <option>最佳女主角</option>
           <option>最佳男配角</option>
           <option>最佳女配角</option>
+          <option>最佳外语片</option>
       </select>
     </p>
   </div>
@@ -20,7 +21,6 @@
   </div>
 </div>
 <script>
-
     var Render = (function(ns) {
 
     ns.state = {
@@ -39,9 +39,10 @@
     };
 
     ns.localization = {};
+    ns.nomination = {};
     ns.metadata = {};
 
-    ns.categoryMapping = ["Best Picture", "Best Director", "Best Actor in a Leading Role", "Best Actress in a Leading Role", "Best Actor in a Supporting Role", "Best Actress in a Supporting Role"];
+    ns.categoryMapping = ["Best Picture", "Best Director", "Best Actor in a Leading Role", "Best Actress in a Leading Role", "Best Actor in a Supporting Role", "Best Actress in a Supporting Role", "Best Foreign Language Film"];
 
     /**
      * update the heat maps
@@ -62,7 +63,7 @@
                 return {
                     oc: ci,
                     or: ri,
-                    color: (cell === row[1] || (cell !== row[1] && cell.indexOf(row[1]) >= 0)) ? "Green" : "Yellow",
+                    color:ns.getColor(row, cell) ,
                     opacity: ns.getOpacity(row, cell)
                 };
             });
@@ -133,18 +134,52 @@
         return ns;
     };
 
+    ns.getColor = function(row, cell) {
+      var sColor = "";
+      if (!cell) {
+        sColor = "b1aeae";// No data - Grey
+      } else if (row[0] === "Year" || cell === row[0]) {
+        sColor = "#2a0cda";// Title - Blue
+      } else if (cell === row[1] || (cell !== row[1] && cell.indexOf(row[1]) >= 0)) {
+        sColor = "Green";// Oscar winner - Green
+      } else if (ns.isNominated(row, cell)) {
+        sColor = "Yellow";// Oscar nomination - Yellow
+      } else {
+        sColor = "Red"
+      }
+      return sColor;
+    };
+
     ns.getOpacity = function(row, cell) {
         var opacity = 0.3;
         var count = 0;
         if (cell) {
             row.forEach(function(i) {
-                if (i === cell || i.indexOf(cell) >= 0 || cell.indexOf(i) >= 0) {
+                if (i && (i === cell || i.indexOf(cell) >= 0 || cell.indexOf(i) >= 0)) {
                     count++;
                 }
             });
         }
         opacity += count / row.length * 0.7;
         return opacity;
+    };
+
+    ns.isNominated = function(row, cell) {
+      var bIsNominated = false;
+      // row[0] !== "Year" && ns.nomination[ns.categoryMapping[$("#categorySelect")[0].selectedIndex]][row[0]] && ns.nomination[ns.categoryMapping[$("#categorySelect")[0].selectedIndex]][row[0]].includes(cell)
+      var i, k;
+      var aNominations = ns.nomination[ns.categoryMapping[$("#categorySelect")[0].selectedIndex]][row[0]];
+        
+      if (row[0] !== "Year" && aNominations) {
+        for (i = 0; i < cell.split("/").length; i++) {
+          for (k = 0; k < aNominations.length; k++) {
+            if (cell.split("/")[i] === aNominations[k]) {
+              bIsNominated = true;
+            }
+          }
+        }
+      }
+      return bIsNominated;
     };
 
     /**
@@ -259,6 +294,10 @@
 
     d3.json("localization.json", function(json) {
     Render.localization = json;
+    });
+
+    d3.json("nomination.json", function(json) {
+    Render.nomination = json;
     });
 
     d3.json("data.json", function(json) {

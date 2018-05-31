@@ -1008,6 +1008,132 @@
                 "Title": ""
             }
         ],
+        "NSFC": [
+            {
+                "Year": "2018",
+                "Title": "Lady Bird"
+            },
+            {
+                "Year": "2017",
+                "Title": "Moonlight"
+            },
+            {
+                "Year": "2016",
+                "Title": "Spotlight"
+            },
+            {
+                "Year": "2015",
+                "Title": "Goodbye to Language"
+            },
+            {
+                "Year": "2014",
+                "Title": "Inside Llewyn Davis"
+            },
+            {
+                "Year": "2013",
+                "Title": "Amour"
+            },
+            {
+                "Year": "2012",
+                "Title": "Melancholia"
+            },
+            {
+                "Year": "2011",
+                "Title": "The Social Network"
+            },
+            {
+                "Year": "2010",
+                "Title": "The Hurt Locker"
+            },
+            {
+                "Year": "2009",
+                "Title": "Waltz with Bashir"
+            },
+            {
+                "Year": "2008",
+                "Title": "There Will Be Blood"
+            },
+            {
+                "Year": "2007",
+                "Title": "Pan's Labyrinth"
+            },
+            {
+                "Year": "2006",
+                "Title": "Capote"
+            },
+            {
+                "Year": "2005",
+                "Title": "Million Dollar Baby"
+            },
+            {
+                "Year": "2004",
+                "Title": "American Splendor"
+            },
+            {
+                "Year": "2003",
+                "Title": "The Pianist"
+            },
+            {
+                "Year": "2002",
+                "Title": "Mulholland Drive"
+            },
+            {
+                "Year": "2001",
+                "Title": "Yi Yi"
+            },
+            {
+                "Year": "2000",
+                "Title": "Topsy-Turvy/Being John Malkovich"
+            },
+            {
+                "Year": "1999",
+                "Title": "Out of Sight"
+            },
+            {
+                "Year": "1998",
+                "Title": "L.A. Confidential"
+            },
+            {
+                "Year": "1997",
+                "Title": "Breaking the Waves"
+            },
+            {
+                "Year": "1996",
+                "Title": "Babe"
+            },
+            {
+                "Year": "1995",
+                "Title": "Pulp Fiction"
+            },
+            {
+                "Year": "1994",
+                "Title": "Schindler's List"
+            },
+            {
+                "Year": "1993",
+                "Title": "Unforgiven"
+            },
+            {
+                "Year": "1992",
+                "Title": "Life Is Sweet"
+            },
+            {
+                "Year": "1991",
+                "Title": "Goodfellas"
+            },
+            {
+                "Year": "1990",
+                "Title": "Drugstore Cowboy"
+            },
+            {
+                "Year": "1989",
+                "Title": "The Unbearable Lightness of Being"
+            },
+            {
+                "Year": "1988",
+                "Title": "The Dead"
+            }
+        ],
         "NYFCC": [
             {
                 "Year": "2018",
@@ -1636,6 +1762,510 @@
             {
                 "Year": "1988",
                 "Title": "Hope and Glory"
+            }
+        ],
+        "SFFCC": [
+            {
+                "Year": "2018",
+                "Title": "The Florida Project"
+            },
+            {
+                "Year": "2017",
+                "Title": "Moonlight"
+            },
+            {
+                "Year": "2016",
+                "Title": "Spotlight"
+            },
+            {
+                "Year": "2015",
+                "Title": "Boyhood"
+            },
+            {
+                "Year": "2014",
+                "Title": "12 Years a Slave"
+            },
+            {
+                "Year": "2013",
+                "Title": "The Master"
+            },
+            {
+                "Year": "2012",
+                "Title": "The Tree of Life"
+            },
+            {
+                "Year": "2011",
+                "Title": "The Social Network"
+            },
+            {
+                "Year": "2010",
+                "Title": "The Hurt Locker"
+            },
+            {
+                "Year": "2009",
+                "Title": "Milk"
+            },
+            {
+                "Year": "2008",
+                "Title": "The Assassination of Jesse James by the Coward Robert Ford"
+            },
+            {
+                "Year": "2007",
+                "Title": "Little Children"
+            },
+            {
+                "Year": "2006",
+                "Title": "Brokeback Mountain"
+            },
+            {
+                "Year": "2005",
+                "Title": "Sideways"
+            },
+            {
+                "Year": "2004",
+                "Title": "Lost in Translation"
+            },
+            {
+                "Year": "2003",
+                "Title": "The Pianist"
+            },
+            {
+                "Year": "2002",
+                "Title": ""
+            },
+            {
+                "Year": "2001",
+                "Title": ""
+            },
+            {
+                "Year": "2000",
+                "Title": ""
+            },
+            {
+                "Year": "1999",
+                "Title": ""
+            },
+            {
+                "Year": "1998",
+                "Title": ""
+            },
+            {
+                "Year": "1997",
+                "Title": ""
+            },
+            {
+                "Year": "1996",
+                "Title": ""
+            },
+            {
+                "Year": "1995",
+                "Title": ""
+            },
+            {
+                "Year": "1994",
+                "Title": ""
+            },
+            {
+                "Year": "1993",
+                "Title": ""
+            },
+            {
+                "Year": "1992",
+                "Title": ""
+            },
+            {
+                "Year": "1991",
+                "Title": ""
+            },
+            {
+                "Year": "1990",
+                "Title": ""
+            },
+            {
+                "Year": "1989",
+                "Title": ""
+            },
+            {
+                "Year": "1988",
+                "Title": ""
+            }
+        ],
+        "LFCC": [
+            {
+                "Year": "2018",
+                "Title": "Three Billboards Outside Ebbing, Missouri"
+            },
+            {
+                "Year": "2017",
+                "Title": "La La Land"
+            },
+            {
+                "Year": "2016",
+                "Title": "Mad Max: Fury Road"
+            },
+            {
+                "Year": "2015",
+                "Title": "Boyhood"
+            },
+            {
+                "Year": "2014",
+                "Title": "12 Years a Slave"
+            },
+            {
+                "Year": "2013",
+                "Title": "Amour"
+            },
+            {
+                "Year": "2012",
+                "Title": "The Artist"
+            },
+            {
+                "Year": "2011",
+                "Title": "The Social Network"
+            },
+            {
+                "Year": "2010",
+                "Title": "A Prophet"
+            },
+            {
+                "Year": "2009",
+                "Title": "The Wrestler"
+            },
+            {
+                "Year": "2008",
+                "Title": "No Country for Old Men"
+            },
+            {
+                "Year": "2007",
+                "Title": "United 93"
+            },
+            {
+                "Year": "2006",
+                "Title": "Brokeback Mountain"
+            },
+            {
+                "Year": "2005",
+                "Title": "Sideways"
+            },
+            {
+                "Year": "2004",
+                "Title": "Master and Commander: The Far Side of the World"
+            },
+            {
+                "Year": "2003",
+                "Title": "About Schmidt"
+            },
+            {
+                "Year": "2002",
+                "Title": "Moulin Rouge!"
+            },
+            {
+                "Year": "2001",
+                "Title": "Being John Malkovich"
+            },
+            {
+                "Year": "2000",
+                "Title": "American Beauty"
+            },
+            {
+                "Year": "1999",
+                "Title": "Saving Private Ryan"
+            },
+            {
+                "Year": "1998",
+                "Title": "L.A. Confidential"
+            },
+            {
+                "Year": "1997",
+                "Title": "Fargo"
+            },
+            {
+                "Year": "1996",
+                "Title": "Babe"
+            },
+            {
+                "Year": "1995",
+                "Title": "Schindler's List"
+            },
+            {
+                "Year": "1994",
+                "Title": "The Piano"
+            },
+            {
+                "Year": "1993",
+                "Title": "Unforgiven"
+            },
+            {
+                "Year": "1992",
+                "Title": "Thelma & Louise"
+            },
+            {
+                "Year": "1991",
+                "Title": "Crimes and Misdemeanors"
+            },
+            {
+                "Year": "1990",
+                "Title": "Distant Voices, Still Lives"
+            },
+            {
+                "Year": "1989",
+                "Title": "House of Games"
+            },
+            {
+                "Year": "1988",
+                "Title": "Hope and Glory"
+            }
+        ],
+        "TFCA": [
+            {
+                "Year": "2018",
+                "Title": "The Florida Project"
+            },
+            {
+                "Year": "2017",
+                "Title": "Moonlight"
+            },
+            {
+                "Year": "2016",
+                "Title": "Carol"
+            },
+            {
+                "Year": "2015",
+                "Title": "Boyhood"
+            },
+            {
+                "Year": "2014",
+                "Title": "Inside Llewyn Davis"
+            },
+            {
+                "Year": "2013",
+                "Title": "The Master"
+            },
+            {
+                "Year": "2012",
+                "Title": "The Tree of Life"
+            },
+            {
+                "Year": "2011",
+                "Title": "The Social Network"
+            },
+            {
+                "Year": "2010",
+                "Title": "Hunger/Inglourious Basterds"
+            },
+            {
+                "Year": "2009",
+                "Title": "Wendy and Lucy"
+            },
+            {
+                "Year": "2008",
+                "Title": "No Country for Old Men"
+            },
+            {
+                "Year": "2007",
+                "Title": "The Queen"
+            },
+            {
+                "Year": "2006",
+                "Title": "A History of Violence"
+            },
+            {
+                "Year": "2005",
+                "Title": "Sideways"
+            },
+            {
+                "Year": "2004",
+                "Title": "Lost in Translation"
+            },
+            {
+                "Year": "2003",
+                "Title": "Adaptation."
+            },
+            {
+                "Year": "2002",
+                "Title": "Memento"
+            },
+            {
+                "Year": "2001",
+                "Title": "Crouching Tiger, Hidden Dragon"
+            },
+            {
+                "Year": "2000",
+                "Title": "Magnolia"
+            },
+            {
+                "Year": "1999",
+                "Title": "Saving Private Ryan"
+            },
+            {
+                "Year": "1998",
+                "Title": "The Sweet Hereafter"
+            },
+            {
+                "Year": "1997",
+                "Title": ""
+            },
+            {
+                "Year": "1996",
+                "Title": ""
+            },
+            {
+                "Year": "1995",
+                "Title": ""
+            },
+            {
+                "Year": "1994",
+                "Title": ""
+            },
+            {
+                "Year": "1993",
+                "Title": ""
+            },
+            {
+                "Year": "1992",
+                "Title": ""
+            },
+            {
+                "Year": "1991",
+                "Title": ""
+            },
+            {
+                "Year": "1990",
+                "Title": ""
+            },
+            {
+                "Year": "1989",
+                "Title": ""
+            },
+            {
+                "Year": "1988",
+                "Title": ""
+            }
+        ],
+        "FFCC": [
+            {
+                "Year": "2018",
+                "Title": "Dunkirk"
+            },
+            {
+                "Year": "2017",
+                "Title": "The Lobster"
+            },
+            {
+                "Year": "2016",
+                "Title": "Mad Max: Fury Road"
+            },
+            {
+                "Year": "2015",
+                "Title": "Birdman or (The Unexpected Virtue of Ignorance)"
+            },
+            {
+                "Year": "2014",
+                "Title": "12 Years a Slave"
+            },
+            {
+                "Year": "2013",
+                "Title": "Argo"
+            },
+            {
+                "Year": "2012",
+                "Title": "The Descendants"
+            },
+            {
+                "Year": "2011",
+                "Title": "The Social Network"
+            },
+            {
+                "Year": "2010",
+                "Title": "Up in the Air"
+            },
+            {
+                "Year": "2009",
+                "Title": "Slumdog Millionaire"
+            },
+            {
+                "Year": "2008",
+                "Title": "No Country for Old Men"
+            },
+            {
+                "Year": "2007",
+                "Title": "The Departed"
+            },
+            {
+                "Year": "2006",
+                "Title": "Brokeback Mountain"
+            },
+            {
+                "Year": "2005",
+                "Title": "Sideways"
+            },
+            {
+                "Year": "2004",
+                "Title": "The Lord of the Rings: The Return of the King"
+            },
+            {
+                "Year": "2003",
+                "Title": "Adaptation."
+            },
+            {
+                "Year": "2002",
+                "Title": "Amélie"
+            },
+            {
+                "Year": "2001",
+                "Title": "Traffic"
+            },
+            {
+                "Year": "2000",
+                "Title": "Magnolia"
+            },
+            {
+                "Year": "1999",
+                "Title": "Shakespeare in Love"
+            },
+            {
+                "Year": "1998",
+                "Title": "Titanic"
+            },
+            {
+                "Year": "1997",
+                "Title": "Fargo"
+            },
+            {
+                "Year": "1996",
+                "Title": ""
+            },
+            {
+                "Year": "1995",
+                "Title": ""
+            },
+            {
+                "Year": "1994",
+                "Title": ""
+            },
+            {
+                "Year": "1993",
+                "Title": ""
+            },
+            {
+                "Year": "1992",
+                "Title": ""
+            },
+            {
+                "Year": "1991",
+                "Title": ""
+            },
+            {
+                "Year": "1990",
+                "Title": ""
+            },
+            {
+                "Year": "1989",
+                "Title": ""
+            },
+            {
+                "Year": "1988",
+                "Title": ""
             }
         ]
     },
@@ -2582,6 +3212,163 @@
                 "Winner": "Steven Spielberg"
             }
         ],
+        "NSFC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Greta Gerwig"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Barry Jenkins"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Todd Haynes"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Richard Linklater"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Joel Coen and Ethan Coen"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Michael Haneke"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Terrence Malick"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "David Fincher"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Kathryn Bigelow"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Mike Leigh"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Paul Thomas Anderson"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Paul Greengrass"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "David Cronenberg"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Zhang Yimou"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Clint Eastwood"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Roman Polanski"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Robert Altman"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Steven Soderbergh"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Mike Leigh"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Steven Soderbergh"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Curtis Hanson"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Lars von Trier"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Mike Figgis"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Quentin Tarantino"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Steven Spielberg"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Clint Eastwood"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "David Cronenberg"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Martin Scorsese"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Gus Van Sant"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Philip Kaufman"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "John Boorman"
+            }
+        ],
         "NYFCC": [
             {
                 "Year": "2018",
@@ -3365,6 +4152,634 @@
                 "Year": "1988",
                 "Title": "",
                 "Winner": "Stanley Kubrick"
+            }
+        ],
+        "SFFCC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Guillermo del Toro"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Barry Jenkins"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "George Miller"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Richard Linklater"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Alfonso Cuarón"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Kathryn Bigelow"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Terrence Malick"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "David Fincher/Darren Aronofsky"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Kathryn Bigelow"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Gus Van Sant"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Joel Coen and Ethan Coen"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Paul Greengrass"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Ang Lee"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Alexander Payne"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Peter Jackson"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Todd Haynes"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "LFCC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Sean Baker"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "László Nemes"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "George Miller"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Richard Linklater"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Alfonso Cuarón"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Ang Lee"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Michel Hazanavicius"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "David Fincher"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Kathryn Bigelow"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "David Fincher"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Paul Thomas Anderson"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Paul Greengrass"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Ang Lee"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Martin Scorsese"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Clint Eastwood"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Phillip Noyce"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Alejandro González Iñárritu"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Spike Jonze"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Sam Mendes"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Peter Weir"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Curtis Hanson"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Joel Coen"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Peter Jackson"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Steven Spielberg"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "James Ivory"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Robert Altman"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Ridley Scott"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Woody Allen"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Terence Davies"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "John Huston"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Stanley Kubrick"
+            }
+        ],
+        "TFCA": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Greta Gerwig"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Maren Ade"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Todd Haynes"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Richard Linklater"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Alfonso Cuarón"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Paul Thomas Anderson"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Terrence Malick"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "David Fincher"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Kathryn Bigelow"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Jonathan Demme"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Joel Coen and Ethan Coen"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Stephen Frears/Jean-Pierre and Luc Dardenne"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "David Cronenberg"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Michel Gondry"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Peter Jackson"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Paul Thomas Anderson"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "David Lynch"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Steven Soderbergh"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Paul Thomas Anderson"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Steven Spielberg"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Atom Egoyan"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "FFCC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Christopher Nolan"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Damien Chazelle"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "George Miller"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Richard Linklater"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Steve McQueen"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Ben Affleck"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Martin Scorsese"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "David Fincher"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Jason Reitman"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Danny Boyle"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Joel Coen and Ethan Coen"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Martin Scorsese"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Ang Lee"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Alexander Payne"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Peter Jackson"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Martin Scorsese"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Peter Jackson"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Steven Soderbergh"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Sam Mendes"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Peter Weir"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Curtis Hanson"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Joel Coen"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
             }
         ]
     },
@@ -4468,6 +5883,163 @@
                 "Winner": "Michael Douglas"
             }
         ],
+        "NSFC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Daniel Kaluuya"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Casey Affleck"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Michael B. Jordan"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Timothy Spall"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Oscar Isaac"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Daniel Day-Lewis"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Brad Pitt"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Jesse Eisenberg"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Jeremy Renner"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Sean Penn"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Daniel Day-Lewis"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Forest Whitaker"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Philip Seymour Hoffman"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Jamie Foxx"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Bill Murray"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Adrien Brody"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Gene Hackman"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Javier Bardem"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Russell Crowe"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Nick Nolte"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Robert Duvall"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Eddie Murphy"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Nicolas Cage"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Paul Newman"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "David Thewlis"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Stephen Rea"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "River Phoenix"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Jeremy Irons"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Daniel Day-Lewis"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Michael Keaton"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Steve Martin"
+            }
+        ],
         "NYFCC": [
             {
                 "Year": "2018",
@@ -5251,6 +6823,634 @@
                 "Year": "1988",
                 "Title": "",
                 "Winner": "Albert Brooks"
+            }
+        ],
+        "SFFCC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Andy Serkis"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Denzel Washington"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Paul Dano"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Michael Keaton"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Chiwetel Ejiofor"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Joaquin Phoenix"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Gary Oldman"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Colin Firth"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Colin Firth"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Sean Penn/Mickey Rourke"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "George Clooney"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Sacha Baron Cohen"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Heath Ledger"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Paul Giamatti"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Bill Murray"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Michael Caine"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "LFCC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Timothée Chalamet"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Casey Affleck"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Tom Courtenay"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Michael Keaton"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Chiwetel Ejiofor"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Joaquin Phoenix"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Jean Dujardin"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Colin Firth"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Christoph Waltz"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Mickey Rourke"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Daniel Day-Lewis"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Forest Whitaker"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Bruno Ganz"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Jamie Foxx"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Sean Penn"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Michael Caine"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Billy Bob Thornton"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Russell Crowe"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Kevin Spacey"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Jack Nicholson"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Geoffrey Rush"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Morgan Freeman"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Johnny Depp"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "John Travolta"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Anthony Hopkins"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Robert Downey Jr."
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Gérard Depardieu"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Philippe Noiret"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "TFCA": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Daniel Day-Lewis"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Adam Driver"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Tom Hardy"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Tom Hardy"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Oscar Isaac"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Denis Lavant"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Michael Shannon"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Jesse Eisenberg"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Nicolas Cage"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Mickey Rourke"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Viggo Mortensen"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Sacha Baron Cohen"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Philip Seymour Hoffman"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Paul Giamatti"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Bill Murray"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Nicolas Cage"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Ed Harris"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Benicio del Toro"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Kevin Spacey"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Ian McKellen"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Ian Holm"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "FFCC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Timothée Chalamet"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Casey Affleck"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Paul Dano"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Michael Keaton"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Chiwetel Ejiofor"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Daniel Day-Lewis"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Michael Fassbender"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Colin Firth"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "George Clooney"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Mickey Rourke"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Daniel Day-Lewis"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Forest Whitaker"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Philip Seymour Hoffman"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Jamie Foxx"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Sean Penn"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Daniel Day-Lewis"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Billy Bob Thornton"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Geoffrey Rush"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Kevin Spacey"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Ian McKellen"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Robert Duvall"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Geoffrey Rush"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
             }
         ]
     },
@@ -6354,6 +8554,163 @@
                 "Winner": "Holly Hunter/Lillian Gish"
             }
         ],
+        "NSFC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Sally Hawkins"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Isabelle Huppert"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Charlotte Rampling"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Marion Cotillard"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Emmanuelle Riva"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Kirsten Dunst"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Giovanna Mezzogiorno"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Yolande Moreau"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Sally Hawkins"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Julie Christie"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Helen Mirren"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Reese Witherspoon"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Hilary Swank/Imelda Staunton"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Charlize Theron"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Diane Lane"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Naomi Watts"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Laura Linney"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Reese Witherspoon"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Ally Sheedy"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Julie Christie"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Emily Watson"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Elisabeth Shue"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Jennifer Jason Leigh"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Holly Hunter"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Emma Thompson"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Alison Steadman"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Anjelica Huston"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Michelle Pfeiffer"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Judy Davis"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Emily Lloyd"
+            }
+        ],
         "NYFCC": [
             {
                 "Year": "2018",
@@ -6535,7 +8892,7 @@
             {
                 "Year": "2014",
                 "Title": "",
-                "Winner": "Adèle Exarchopoulos/Cate Blanchett"
+                "Winner": "Cate Blanchett/Adèle Exarchopoulos"
             },
             {
                 "Year": "2013",
@@ -7137,6 +9494,634 @@
                 "Year": "1988",
                 "Title": "",
                 "Winner": "Holly Hunter"
+            }
+        ],
+        "SFFCC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Margot Robbie"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Isabelle Huppert"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Saoirse Ronan"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Julianne Moore"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Emmanuelle Riva"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Tilda Swinton"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Michelle Williams"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Meryl Streep"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Sally Hawkins"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Julie Christie"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Helen Mirren"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Reese Witherspoon"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Julie Delpy"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Charlize Theron"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Isabelle Huppert"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "LFCC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Frances McDormand"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Isabelle Huppert"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Charlotte Rampling"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Julianne Moore"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Emmanuelle Riva"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Meryl Streep/Anna Paquin"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Annette Bening"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Mo'Nique"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Kate Winslet"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Marion Cotillard"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Meryl Streep"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Naomi Watts"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Imelda Staunton"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Julianne Moore"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Stockard Channing"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Nicole Kidman"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Julia Roberts"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Annette Bening"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Claire Danes"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Frances McDormand"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Nicole Kidman"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Linda Fiorentino"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Holly Hunter"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Judy Davis"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Susan Sarandon"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "TFCA": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Frances McDormand"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Sandra Hüller"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Nina Hoss"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Marion Cotillard"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Rachel Weisz"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Michelle Williams"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Jennifer Lawrence"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Carey Mulligan"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Michelle Williams"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Ellen Page/Julie Christie"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Helen Mirren"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Laura Linney"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Imelda Staunton"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Samantha Morton"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Julianne Moore"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Thora Birch"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Laura Linney"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Hilary Swank"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Helena Bonham Carter"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "FFCC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Margot Robbie"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Isabelle Huppert"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Brie Larson"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Rosamund Pike"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Jessica Chastain"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Michelle Williams"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Natalie Portman"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Gabourey Sidibe"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Melissa Leo"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Ellen Page"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Helen Mirren"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Reese Witherspoon"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Hilary Swank"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Naomi Watts"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Julianne Moore"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Sissy Spacek"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Ellen Burstyn"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Hilary Swank"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Gwyneth Paltrow"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Helen Hunt"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Frances McDormand"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
             }
         ]
     },
@@ -8083,6 +11068,163 @@
                 "Winner": "Sean Connery"
             }
         ],
+        "NSFC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Willem Dafoe"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Mahershala Ali"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Mark Rylance"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "J. K. Simmons"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "James Franco"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Matthew McConaughey"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Albert Brooks"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Geoffrey Rush"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Christoph Waltz/Paul Schneider"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Eddie Marsan"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Casey Affleck"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Mark Wahlberg"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Ed Harris"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Thomas Haden Church"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Peter Sarsgaard"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Christopher Walken"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Steve Buscemi"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Benicio del Toro"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Christopher Plummer"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Bill Murray"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Burt Reynolds"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Tony Shalhoub/Martin Donovan"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Don Cheadle"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Martin Landau"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Ralph Fiennes"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Gene Hackman"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Harvey Keitel"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Bruce Davison"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Beau Bridges"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Dean Stockwell"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Morgan Freeman"
+            }
+        ],
         "NYFCC": [
             {
                 "Year": "2018",
@@ -8866,6 +12008,634 @@
                 "Year": "1988",
                 "Title": "",
                 "Winner": "R. Lee Ermey"
+            }
+        ],
+        "SFFCC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Willem Dafoe"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Mahershala Ali"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Michael Shannon"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Edward Norton"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "James Franco"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Tommy Lee Jones"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Albert Brooks"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "John Hawkes"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Christian McKay"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Heath Ledger"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Casey Affleck"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Jackie Earle Haley"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Kevin Costner"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Thomas Haden Church"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Peter Sarsgaard"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Chris Cooper"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "LFCC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Hugh Grant"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Tom Bennett/Mahershala Ali"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Mark Rylance"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "J. K. Simmons"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Barkhad Abdi"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Philip Seymour Hoffman"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Kenneth Branagh"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "TFCA": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Willem Dafoe"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Mahershala Ali"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Mark Rylance"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "J. K. Simmons"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Jared Leto"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Philip Seymour Hoffman"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Christopher Plummer"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Armie Hammer"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Christoph Waltz"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Heath Ledger"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Javier Bardem"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Michael Sheen"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Paul Giamatti"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Clive Owen"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Peter Sarsgaard"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Chris Cooper"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Ben Kingsley"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Jeffrey Wright/Tobey Maguire"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "FFCC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Sam Rockwell"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Jeff Bridges"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Oscar Isaac"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "J. K. Simmons"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Jared Leto"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Philip Seymour Hoffman"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Albert Brooks"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Christian Bale"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Christoph Waltz"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Heath Ledger"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Javier Bardem"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Jack Nicholson"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Paul Giamatti"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Thomas Haden Church"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Tim Robbins"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Chris Cooper"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Ben Kingsley"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Benicio del Toro"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Haley Joel Osment"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Robert Duvall"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Rupert Everett"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Edward Norton"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
             }
         ]
     },
@@ -10595,6 +14365,2683 @@
                 "Year": "1988",
                 "Title": "",
                 "Winner": "Kathy Baker"
+            }
+        ],
+        "SFFCC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Laurie Metcalf"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Viola Davis"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Mya Taylor"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Patricia Arquette"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Jennifer Lawrence"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Helen Hunt"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Vanessa Redgrave"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Jacki Weaver"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Mo'Nique"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Marisa Tomei"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Amy Ryan"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Adriana Barraza"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Amy Adams"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Virginia Madsen"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Patricia Clarkson"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Miranda Richardson"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "LFCC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Lesley Manville"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Naomie Harris"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Kate Winslet"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Patricia Arquette"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Lupita Nyong'o"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Anne Hathaway"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Sareh Bayat"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "TFCA": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Laurie Metcalf"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Michelle Williams"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Alicia Vikander"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Patricia Arquette"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Jennifer Lawrence"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Gina Gershon"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Jessica Chastain"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Hailee Steinfeld"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Anna Kendrick"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Rosemarie DeWitt"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Catherine Keener"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Virginia Madsen"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Miranda Richardson"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Emily Watson"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Scarlett Johansson"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Ziyi Zhang"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "FFCC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Allison Janney"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Michelle Williams"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Kristen Stewart"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Patricia Arquette"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Lupita Nyong'o"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Anne Hathaway"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Shailene Woodley"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Melissa Leo"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Mo'Nique"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Marisa Tomei"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Amy Ryan"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Amy Adams"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Laura Linney"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Patricia Clarkson"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Meryl Streep"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Frances McDormand"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Catherine Keener"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Christina Ricci"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Julianne Moore"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Courtney Love"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": ""
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": ""
+            }
+        ],
+        "NSFC": [
+            {
+                "Year": "2018",
+                "Title": "",
+                "Winner": "Laurie Metcalf"
+            },
+            {
+                "Year": "2017",
+                "Title": "",
+                "Winner": "Michelle Williams"
+            },
+            {
+                "Year": "2016",
+                "Title": "",
+                "Winner": "Kristen Stewart"
+            },
+            {
+                "Year": "2015",
+                "Title": "",
+                "Winner": "Patricia Arquette"
+            },
+            {
+                "Year": "2014",
+                "Title": "",
+                "Winner": "Jennifer Lawrence"
+            },
+            {
+                "Year": "2013",
+                "Title": "",
+                "Winner": "Amy Adams"
+            },
+            {
+                "Year": "2012",
+                "Title": "",
+                "Winner": "Jessica Chastain"
+            },
+            {
+                "Year": "2011",
+                "Title": "",
+                "Winner": "Olivia Williams"
+            },
+            {
+                "Year": "2010",
+                "Title": "",
+                "Winner": "Mo'Nique"
+            },
+            {
+                "Year": "2009",
+                "Title": "",
+                "Winner": "Hanna Schygulla"
+            },
+            {
+                "Year": "2008",
+                "Title": "",
+                "Winner": "Cate Blanchett"
+            },
+            {
+                "Year": "2007",
+                "Title": "",
+                "Winner": "Meryl Streep"
+            },
+            {
+                "Year": "2006",
+                "Title": "",
+                "Winner": "Amy Adams"
+            },
+            {
+                "Year": "2005",
+                "Title": "",
+                "Winner": "Virginia Madsen"
+            },
+            {
+                "Year": "2004",
+                "Title": "",
+                "Winner": "Patricia Clarkson"
+            },
+            {
+                "Year": "2003",
+                "Title": "",
+                "Winner": "Patricia Clarkson"
+            },
+            {
+                "Year": "2002",
+                "Title": "",
+                "Winner": "Helen Mirren"
+            },
+            {
+                "Year": "2001",
+                "Title": "",
+                "Winner": "Elaine May"
+            },
+            {
+                "Year": "2000",
+                "Title": "",
+                "Winner": "Chloë Sevigny"
+            },
+            {
+                "Year": "1999",
+                "Title": "",
+                "Winner": "Judi Dench"
+            },
+            {
+                "Year": "1998",
+                "Title": "",
+                "Winner": "Julianne Moore"
+            },
+            {
+                "Year": "1997",
+                "Title": "",
+                "Winner": "Barbara Hershey"
+            },
+            {
+                "Year": "1996",
+                "Title": "",
+                "Winner": "Joan Allen"
+            },
+            {
+                "Year": "1995",
+                "Title": "",
+                "Winner": "Dianne Wiest"
+            },
+            {
+                "Year": "1994",
+                "Title": "",
+                "Winner": "Madeleine Stowe"
+            },
+            {
+                "Year": "1993",
+                "Title": "",
+                "Winner": "Judy Davis"
+            },
+            {
+                "Year": "1992",
+                "Title": "",
+                "Winner": "Jane Horrocks"
+            },
+            {
+                "Year": "1991",
+                "Title": "",
+                "Winner": "Annette Bening"
+            },
+            {
+                "Year": "1990",
+                "Title": "",
+                "Winner": "Anjelica Huston"
+            },
+            {
+                "Year": "1989",
+                "Title": "",
+                "Winner": "Mercedes Ruehl"
+            },
+            {
+                "Year": "1988",
+                "Title": "",
+                "Winner": "Kathy Baker"
+            }
+        ]
+    },
+    "Best Foreign Language Film": {
+        "Oscar": [
+            {
+                "Year": "2018",
+                "Title": "A Fantastic Woman"
+            },
+            {
+                "Year": "2017",
+                "Title": "The Salesman"
+            },
+            {
+                "Year": "2016",
+                "Title": "Son of Saul"
+            },
+            {
+                "Year": "2015",
+                "Title": "Ida"
+            },
+            {
+                "Year": "2014",
+                "Title": "The Great Beauty"
+            },
+            {
+                "Year": "2013",
+                "Title": "Amour"
+            },
+            {
+                "Year": "2012",
+                "Title": "A Separation"
+            },
+            {
+                "Year": "2011",
+                "Title": "In a Better World"
+            },
+            {
+                "Year": "2010",
+                "Title": "The Secret in Their Eyes"
+            },
+            {
+                "Year": "2009",
+                "Title": "Departures"
+            },
+            {
+                "Year": "2008",
+                "Title": "The Counterfeiters"
+            },
+            {
+                "Year": "2007",
+                "Title": "The Lives of Others"
+            },
+            {
+                "Year": "2006",
+                "Title": "Tsotsi"
+            },
+            {
+                "Year": "2005",
+                "Title": "The Sea Inside"
+            },
+            {
+                "Year": "2004",
+                "Title": "The Barbarian Invasions"
+            },
+            {
+                "Year": "2003",
+                "Title": "Nowhere in Africa"
+            },
+            {
+                "Year": "2002",
+                "Title": "No Man's Land"
+            },
+            {
+                "Year": "2001",
+                "Title": "Crouching Tiger, Hidden Dragon"
+            },
+            {
+                "Year": "2000",
+                "Title": "All About My Mother"
+            },
+            {
+                "Year": "1999",
+                "Title": "Life Is Beautiful"
+            },
+            {
+                "Year": "1998",
+                "Title": "Character"
+            },
+            {
+                "Year": "1997",
+                "Title": "Kolya"
+            },
+            {
+                "Year": "1996",
+                "Title": "Antonia's Line"
+            },
+            {
+                "Year": "1995",
+                "Title": "Burnt by the Sun"
+            },
+            {
+                "Year": "1994",
+                "Title": "Belle Epoque"
+            },
+            {
+                "Year": "1993",
+                "Title": "Indochine"
+            },
+            {
+                "Year": "1992",
+                "Title": "Mediterraneo"
+            },
+            {
+                "Year": "1991",
+                "Title": "Journey of Hope"
+            },
+            {
+                "Year": "1990",
+                "Title": "Cinema Paradiso"
+            },
+            {
+                "Year": "1989",
+                "Title": "Pelle the Conqueror"
+            },
+            {
+                "Year": "1988",
+                "Title": "Babette's Feast"
+            }
+        ],
+        "GG": [
+            {
+                "Year": "2018",
+                "Title": "In the Fade"
+            },
+            {
+                "Year": "2017",
+                "Title": "Elle"
+            },
+            {
+                "Year": "2016",
+                "Title": "Son of Saul"
+            },
+            {
+                "Year": "2015",
+                "Title": "Leviathan"
+            },
+            {
+                "Year": "2014",
+                "Title": "The Great Beauty"
+            },
+            {
+                "Year": "2013",
+                "Title": "Amour"
+            },
+            {
+                "Year": "2012",
+                "Title": "A Separation"
+            },
+            {
+                "Year": "2011",
+                "Title": "In a Better World"
+            },
+            {
+                "Year": "2010",
+                "Title": "The White Ribbon"
+            },
+            {
+                "Year": "2009",
+                "Title": "Waltz with Bashir"
+            },
+            {
+                "Year": "2008",
+                "Title": "The Diving Bell and the Butterfly"
+            },
+            {
+                "Year": "2007",
+                "Title": "Letters from Iwo Jima"
+            },
+            {
+                "Year": "2006",
+                "Title": "Paradise Now"
+            },
+            {
+                "Year": "2005",
+                "Title": "The Sea Inside"
+            },
+            {
+                "Year": "2004",
+                "Title": "Osama"
+            },
+            {
+                "Year": "2003",
+                "Title": "Talk to Her"
+            },
+            {
+                "Year": "2002",
+                "Title": "No Man's Land"
+            },
+            {
+                "Year": "2001",
+                "Title": "Crouching Tiger, Hidden Dragon"
+            },
+            {
+                "Year": "2000",
+                "Title": "All About My Mother"
+            },
+            {
+                "Year": "1999",
+                "Title": "Central Station"
+            },
+            {
+                "Year": "1998",
+                "Title": "My Life in Pink"
+            },
+            {
+                "Year": "1997",
+                "Title": "Kolya"
+            },
+            {
+                "Year": "1996",
+                "Title": "Les Misérables"
+            },
+            {
+                "Year": "1995",
+                "Title": "Farinelli"
+            },
+            {
+                "Year": "1994",
+                "Title": "Farewell My Concubine"
+            },
+            {
+                "Year": "1993",
+                "Title": "Indochine"
+            },
+            {
+                "Year": "1992",
+                "Title": "Europa Europa"
+            },
+            {
+                "Year": "1991",
+                "Title": "Cyrano de Bergerac"
+            },
+            {
+                "Year": "1990",
+                "Title": "Cinema Paradiso"
+            },
+            {
+                "Year": "1989",
+                "Title": "Pelle the Conqueror"
+            },
+            {
+                "Year": "1988",
+                "Title": "My Life as a Dog"
+            }
+        ],
+        "BFCA": [
+            {
+                "Year": "2018",
+                "Title": "In the Fade"
+            },
+            {
+                "Year": "2017",
+                "Title": "Elle"
+            },
+            {
+                "Year": "2016",
+                "Title": "Son of Saul"
+            },
+            {
+                "Year": "2015",
+                "Title": "Force Majeure"
+            },
+            {
+                "Year": "2014",
+                "Title": "Blue Is the Warmest Colour"
+            },
+            {
+                "Year": "2013",
+                "Title": "Amour"
+            },
+            {
+                "Year": "2012",
+                "Title": "A Separation"
+            },
+            {
+                "Year": "2011",
+                "Title": "The Girl with the Dragon Tattoo"
+            },
+            {
+                "Year": "2010",
+                "Title": "Broken Embraces"
+            },
+            {
+                "Year": "2009",
+                "Title": "Waltz with Bashir"
+            },
+            {
+                "Year": "2008",
+                "Title": "The Diving Bell and the Butterfly"
+            },
+            {
+                "Year": "2007",
+                "Title": "Letters from Iwo Jima"
+            },
+            {
+                "Year": "2006",
+                "Title": "Kung Fu Hustle"
+            },
+            {
+                "Year": "2005",
+                "Title": "The Sea Inside"
+            },
+            {
+                "Year": "2004",
+                "Title": "The Barbarian Invasions"
+            },
+            {
+                "Year": "2003",
+                "Title": "And Your Mother Too"
+            },
+            {
+                "Year": "2002",
+                "Title": "Amélie"
+            },
+            {
+                "Year": "2001",
+                "Title": "Crouching Tiger, Hidden Dragon"
+            },
+            {
+                "Year": "2000",
+                "Title": "All About My Mother"
+            },
+            {
+                "Year": "1999",
+                "Title": "Life Is Beautiful"
+            },
+            {
+                "Year": "1998",
+                "Title": "Shall We Dance?"
+            },
+            {
+                "Year": "1997",
+                "Title": "Ridicule"
+            },
+            {
+                "Year": "1996",
+                "Title": "Il Postino: The Postman"
+            },
+            {
+                "Year": "1995",
+                "Title": ""
+            },
+            {
+                "Year": "1994",
+                "Title": ""
+            },
+            {
+                "Year": "1993",
+                "Title": ""
+            },
+            {
+                "Year": "1992",
+                "Title": ""
+            },
+            {
+                "Year": "1991",
+                "Title": ""
+            },
+            {
+                "Year": "1990",
+                "Title": ""
+            },
+            {
+                "Year": "1989",
+                "Title": ""
+            },
+            {
+                "Year": "1988",
+                "Title": ""
+            }
+        ],
+        "BAFTA": [
+            {
+                "Year": "2018",
+                "Title": "The Handmaiden"
+            },
+            {
+                "Year": "2017",
+                "Title": "Son of Saul"
+            },
+            {
+                "Year": "2016",
+                "Title": "Wild Tales"
+            },
+            {
+                "Year": "2015",
+                "Title": "Ida"
+            },
+            {
+                "Year": "2014",
+                "Title": "The Great Beauty"
+            },
+            {
+                "Year": "2013",
+                "Title": "Amour"
+            },
+            {
+                "Year": "2012",
+                "Title": "The Skin I Live In"
+            },
+            {
+                "Year": "2011",
+                "Title": "The Girl with the Dragon Tattoo"
+            },
+            {
+                "Year": "2010",
+                "Title": "A Prophet"
+            },
+            {
+                "Year": "2009",
+                "Title": "I've Loved You So Long"
+            },
+            {
+                "Year": "2008",
+                "Title": "The Lives of Others"
+            },
+            {
+                "Year": "2007",
+                "Title": "Pan's Labyrinth"
+            },
+            {
+                "Year": "2006",
+                "Title": "The Beat That My Heart Skipped"
+            },
+            {
+                "Year": "2005",
+                "Title": "The Motorcycle Diaries"
+            },
+            {
+                "Year": "2004",
+                "Title": "In This World"
+            },
+            {
+                "Year": "2003",
+                "Title": "Talk to Her"
+            },
+            {
+                "Year": "2002",
+                "Title": "Love's a Bitch"
+            },
+            {
+                "Year": "2001",
+                "Title": "Crouching Tiger, Hidden Dragon"
+            },
+            {
+                "Year": "2000",
+                "Title": "All About My Mother"
+            },
+            {
+                "Year": "1999",
+                "Title": "Central Station"
+            },
+            {
+                "Year": "1998",
+                "Title": "L'Appartement"
+            },
+            {
+                "Year": "1997",
+                "Title": "Ridicule"
+            },
+            {
+                "Year": "1996",
+                "Title": "Il Postino: The Postman"
+            },
+            {
+                "Year": "1995",
+                "Title": "To Live"
+            },
+            {
+                "Year": "1994",
+                "Title": "Farewell My Concubine"
+            },
+            {
+                "Year": "1993",
+                "Title": "Raise the Red Lantern"
+            },
+            {
+                "Year": "1992",
+                "Title": "The Nasty Girl"
+            },
+            {
+                "Year": "1991",
+                "Title": "Cinema Paradiso"
+            },
+            {
+                "Year": "1990",
+                "Title": "Life and Nothing But"
+            },
+            {
+                "Year": "1989",
+                "Title": "Babette's Feast"
+            },
+            {
+                "Year": "1988",
+                "Title": "The Sacrifice"
+            }
+        ],
+        "NBR": [
+            {
+                "Year": "2018",
+                "Title": "Foxtrot"
+            },
+            {
+                "Year": "2017",
+                "Title": "The Salesman"
+            },
+            {
+                "Year": "2016",
+                "Title": "Son of Saul"
+            },
+            {
+                "Year": "2015",
+                "Title": "Wild Tales"
+            },
+            {
+                "Year": "2014",
+                "Title": "The Past"
+            },
+            {
+                "Year": "2013",
+                "Title": "Amour"
+            },
+            {
+                "Year": "2012",
+                "Title": "A Separation"
+            },
+            {
+                "Year": "2011",
+                "Title": "Of Gods and Men"
+            },
+            {
+                "Year": "2010",
+                "Title": "A Prophet"
+            },
+            {
+                "Year": "2009",
+                "Title": "Mongol"
+            },
+            {
+                "Year": "2008",
+                "Title": "The Diving Bell and the Butterfly"
+            },
+            {
+                "Year": "2007",
+                "Title": "To Return"
+            },
+            {
+                "Year": "2006",
+                "Title": "Paradise Now"
+            },
+            {
+                "Year": "2005",
+                "Title": "The Sea Inside"
+            },
+            {
+                "Year": "2004",
+                "Title": "The Barbarian Invasions"
+            },
+            {
+                "Year": "2003",
+                "Title": "Talk to Her"
+            },
+            {
+                "Year": "2002",
+                "Title": "Love's a Bitch"
+            },
+            {
+                "Year": "2001",
+                "Title": "Crouching Tiger, Hidden Dragon"
+            },
+            {
+                "Year": "2000",
+                "Title": "All About My Mother"
+            },
+            {
+                "Year": "1999",
+                "Title": "Central Station"
+            },
+            {
+                "Year": "1998",
+                "Title": "Shall We Dance?"
+            },
+            {
+                "Year": "1997",
+                "Title": "Ridicule"
+            },
+            {
+                "Year": "1996",
+                "Title": "Shanghai Triad"
+            },
+            {
+                "Year": "1995",
+                "Title": "Eat Drink Man Woman "
+            },
+            {
+                "Year": "1994",
+                "Title": "Farewell My Concubine"
+            },
+            {
+                "Year": "1993",
+                "Title": "Indochine"
+            },
+            {
+                "Year": "1992",
+                "Title": "Europa Europa"
+            },
+            {
+                "Year": "1991",
+                "Title": "Cyrano de Bergerac"
+            },
+            {
+                "Year": "1990",
+                "Title": "Story of Women"
+            },
+            {
+                "Year": "1989",
+                "Title": "Women on the Verge of a Nervous Breakdown"
+            },
+            {
+                "Year": "1988",
+                "Title": "Jean de Florette/Manon of the Spring"
+            }
+        ],
+        "NSFC": [
+            {
+                "Year": "2018",
+                "Title": "Graduation"
+            },
+            {
+                "Year": "2017",
+                "Title": "Toni Erdmann"
+            },
+            {
+                "Year": "2016",
+                "Title": "Timbuktu"
+            },
+            {
+                "Year": "2015",
+                "Title": "Goodbye to Language"
+            },
+            {
+                "Year": "2014",
+                "Title": "Blue Is the Warmest Colour"
+            },
+            {
+                "Year": "2013",
+                "Title": "Amour"
+            },
+            {
+                "Year": "2012",
+                "Title": "A Separation"
+            },
+            {
+                "Year": "2011",
+                "Title": "Carlos"
+            },
+            {
+                "Year": "2010",
+                "Title": "Summer Hours"
+            },
+            {
+                "Year": "2009",
+                "Title": "Waltz with Bashir"
+            },
+            {
+                "Year": "2008",
+                "Title": "4 Months, 3 Weeks and 2 Days"
+            },
+            {
+                "Year": "2007",
+                "Title": "Pan's Labyrinth"
+            },
+            {
+                "Year": "2006",
+                "Title": "Head-On"
+            },
+            {
+                "Year": "2005",
+                "Title": "Moolaadé"
+            },
+            {
+                "Year": "2004",
+                "Title": "The Man Without a Past"
+            },
+            {
+                "Year": "2003",
+                "Title": "Y Tu Mamá También"
+            },
+            {
+                "Year": "2002",
+                "Title": "In the Mood for Love"
+            },
+            {
+                "Year": "2001",
+                "Title": "Yi Yi"
+            },
+            {
+                "Year": "2000",
+                "Title": "Autumn Tale"
+            },
+            {
+                "Year": "1999",
+                "Title": "Taste of Cherry"
+            },
+            {
+                "Year": "1998",
+                "Title": "The Promise"
+            },
+            {
+                "Year": "1997",
+                "Title": "A Judgement in Stone"
+            },
+            {
+                "Year": "1996",
+                "Title": "Wild Reeds"
+            },
+            {
+                "Year": "1995",
+                "Title": "Three Colours: Red"
+            },
+            {
+                "Year": "1994",
+                "Title": "The Story of Qiu Ju"
+            },
+            {
+                "Year": "1993",
+                "Title": "Raise the Red Lantern"
+            },
+            {
+                "Year": "1992",
+                "Title": "The Double Life of Veronique"
+            },
+            {
+                "Year": "1991",
+                "Title": "Ariel"
+            },
+            {
+                "Year": "1990",
+                "Title": ""
+            },
+            {
+                "Year": "1989",
+                "Title": ""
+            },
+            {
+                "Year": "1988",
+                "Title": ""
+            }
+        ],
+        "NYFCC": [
+            {
+                "Year": "2018",
+                "Title": "BPM"
+            },
+            {
+                "Year": "2017",
+                "Title": "Toni Erdmann"
+            },
+            {
+                "Year": "2016",
+                "Title": "Timbuktu"
+            },
+            {
+                "Year": "2015",
+                "Title": "Ida"
+            },
+            {
+                "Year": "2014",
+                "Title": "Blue Is the Warmest Colour"
+            },
+            {
+                "Year": "2013",
+                "Title": "Amour"
+            },
+            {
+                "Year": "2012",
+                "Title": "A Separation"
+            },
+            {
+                "Year": "2011",
+                "Title": "Carlos"
+            },
+            {
+                "Year": "2010",
+                "Title": "Summer Hours"
+            },
+            {
+                "Year": "2009",
+                "Title": "4 Months, 3 Weeks and 2 Days"
+            },
+            {
+                "Year": "2008",
+                "Title": "The Lives of Others"
+            },
+            {
+                "Year": "2007",
+                "Title": "Army of Shadows"
+            },
+            {
+                "Year": "2006",
+                "Title": "2046"
+            },
+            {
+                "Year": "2005",
+                "Title": "Bad Education"
+            },
+            {
+                "Year": "2004",
+                "Title": "City of God"
+            },
+            {
+                "Year": "2003",
+                "Title": "And Your Mother Too"
+            },
+            {
+                "Year": "2002",
+                "Title": "In the Mood for Love"
+            },
+            {
+                "Year": "2001",
+                "Title": "Yi Yi"
+            },
+            {
+                "Year": "2000",
+                "Title": "All About My Mother"
+            },
+            {
+                "Year": "1999",
+                "Title": "The Celebration"
+            },
+            {
+                "Year": "1998",
+                "Title": "Ponette"
+            },
+            {
+                "Year": "1997",
+                "Title": "The White Balloon"
+            },
+            {
+                "Year": "1996",
+                "Title": "Wild Reeds"
+            },
+            {
+                "Year": "1995",
+                "Title": "Three Colours: Red"
+            },
+            {
+                "Year": "1994",
+                "Title": "Farewell My Concubine"
+            },
+            {
+                "Year": "1993",
+                "Title": "Raise the Red Lantern"
+            },
+            {
+                "Year": "1992",
+                "Title": "Europa Europa"
+            },
+            {
+                "Year": "1991",
+                "Title": "The Nasty Girl"
+            },
+            {
+                "Year": "1990",
+                "Title": "Story of Women"
+            },
+            {
+                "Year": "1989",
+                "Title": "Women on the Verge of a Nervous Breakdown"
+            },
+            {
+                "Year": "1988",
+                "Title": "My Life as a Dog"
+            }
+        ],
+        "LAFCA": [
+            {
+                "Year": "2018",
+                "Title": "BPM/Loveless"
+            },
+            {
+                "Year": "2017",
+                "Title": "The Handmaiden"
+            },
+            {
+                "Year": "2016",
+                "Title": "Son of Saul"
+            },
+            {
+                "Year": "2015",
+                "Title": "Ida"
+            },
+            {
+                "Year": "2014",
+                "Title": "Blue Is the Warmest Colour"
+            },
+            {
+                "Year": "2013",
+                "Title": "Holy Motors"
+            },
+            {
+                "Year": "2012",
+                "Title": "City of Life and Death"
+            },
+            {
+                "Year": "2011",
+                "Title": "Carlos"
+            },
+            {
+                "Year": "2010",
+                "Title": "Summer Hours"
+            },
+            {
+                "Year": "2009",
+                "Title": "Still Life"
+            },
+            {
+                "Year": "2008",
+                "Title": "4 Months, 3 Weeks and 2 Days"
+            },
+            {
+                "Year": "2007",
+                "Title": "The Lives of Others"
+            },
+            {
+                "Year": "2006",
+                "Title": "Hidden"
+            },
+            {
+                "Year": "2005",
+                "Title": "House of Flying Daggers"
+            },
+            {
+                "Year": "2004",
+                "Title": "The Man on the Train"
+            },
+            {
+                "Year": "2003",
+                "Title": "And Your Mother Too"
+            },
+            {
+                "Year": "2002",
+                "Title": "No Man's Land"
+            },
+            {
+                "Year": "2001",
+                "Title": "Yi Yi"
+            },
+            {
+                "Year": "2000",
+                "Title": "All About My Mother"
+            },
+            {
+                "Year": "1999",
+                "Title": "The Celebration"
+            },
+            {
+                "Year": "1998",
+                "Title": "The Promise"
+            },
+            {
+                "Year": "1997",
+                "Title": "A Judgement in Stone"
+            },
+            {
+                "Year": "1996",
+                "Title": "Wild Reeds"
+            },
+            {
+                "Year": "1995",
+                "Title": "Three Colours: Red"
+            },
+            {
+                "Year": "1994",
+                "Title": "Farewell My Concubine"
+            },
+            {
+                "Year": "1993",
+                "Title": "The Crying Game"
+            },
+            {
+                "Year": "1992",
+                "Title": "The Beautiful Troublemaker"
+            },
+            {
+                "Year": "1991",
+                "Title": "Life and Nothing But"
+            },
+            {
+                "Year": "1990",
+                "Title": "Story of Women/Distant Voices, Still Lives"
+            },
+            {
+                "Year": "1989",
+                "Title": "Wings of Desire"
+            },
+            {
+                "Year": "1988",
+                "Title": "Goodbye, Children"
+            }
+        ],
+        "CFCA": [
+            {
+                "Year": "2018",
+                "Title": "The Square"
+            },
+            {
+                "Year": "2017",
+                "Title": "The Handmaiden"
+            },
+            {
+                "Year": "2016",
+                "Title": "Son of Saul"
+            },
+            {
+                "Year": "2015",
+                "Title": "Force Majeure"
+            },
+            {
+                "Year": "2014",
+                "Title": "The Act of Killing"
+            },
+            {
+                "Year": "2013",
+                "Title": "Amour"
+            },
+            {
+                "Year": "2012",
+                "Title": "A Separation"
+            },
+            {
+                "Year": "2011",
+                "Title": "A Prophet"
+            },
+            {
+                "Year": "2010",
+                "Title": "The White Ribbon"
+            },
+            {
+                "Year": "2009",
+                "Title": "Let the Right One In"
+            },
+            {
+                "Year": "2008",
+                "Title": "4 Months, 3 Weeks and 2 Days"
+            },
+            {
+                "Year": "2007",
+                "Title": "Letters from Iwo Jima"
+            },
+            {
+                "Year": "2006",
+                "Title": "Hidden"
+            },
+            {
+                "Year": "2005",
+                "Title": "Un long dimanche de fiançailles"
+            },
+            {
+                "Year": "2004",
+                "Title": "City of God"
+            },
+            {
+                "Year": "2003",
+                "Title": "Y Tu Mamá También"
+            },
+            {
+                "Year": "2002",
+                "Title": "Amélie"
+            },
+            {
+                "Year": "2001",
+                "Title": "Crouching Tiger, Hidden Dragon"
+            },
+            {
+                "Year": "2000",
+                "Title": "All About My Mother"
+            },
+            {
+                "Year": "1999",
+                "Title": "Life Is Beautiful"
+            },
+            {
+                "Year": "1998",
+                "Title": "Shall We Dance?"
+            },
+            {
+                "Year": "1997",
+                "Title": "Dekalog"
+            },
+            {
+                "Year": "1996",
+                "Title": "Il Postino: The Postman"
+            },
+            {
+                "Year": "1995",
+                "Title": "Trois couleurs: Rouge"
+            },
+            {
+                "Year": "1994",
+                "Title": "The Piano"
+            },
+            {
+                "Year": "1993",
+                "Title": "The Crying Game"
+            },
+            {
+                "Year": "1992",
+                "Title": "An Angel at My Table"
+            },
+            {
+                "Year": "1991",
+                "Title": "The Cook, the Thief, His Wife & Her Lover"
+            },
+            {
+                "Year": "1990",
+                "Title": "Henry V."
+            },
+            {
+                "Year": "1989",
+                "Title": "Au revoir les enfants"
+            },
+            {
+                "Year": "1988",
+                "Title": ""
+            }
+        ],
+        "WAFCA": [
+            {
+                "Year": "2018",
+                "Title": "BPM"
+            },
+            {
+                "Year": "2017",
+                "Title": "Elle"
+            },
+            {
+                "Year": "2016",
+                "Title": "Son of Saul"
+            },
+            {
+                "Year": "2015",
+                "Title": "Force Majeure"
+            },
+            {
+                "Year": "2014",
+                "Title": "The Broken Circle Breakdown"
+            },
+            {
+                "Year": "2013",
+                "Title": "Amour"
+            },
+            {
+                "Year": "2012",
+                "Title": "The Skin I Live In"
+            },
+            {
+                "Year": "2011",
+                "Title": "Beautiful"
+            },
+            {
+                "Year": "2010",
+                "Title": "Nameless"
+            },
+            {
+                "Year": "2009",
+                "Title": "Let the Right One In"
+            },
+            {
+                "Year": "2008",
+                "Title": "The Diving Bell and the Butterfly"
+            },
+            {
+                "Year": "2007",
+                "Title": "Pan's Labyrinth"
+            },
+            {
+                "Year": "2006",
+                "Title": "Kung Fu Hustle"
+            },
+            {
+                "Year": "2005",
+                "Title": "Maria Full of Grace"
+            },
+            {
+                "Year": "2004",
+                "Title": ""
+            },
+            {
+                "Year": "2003",
+                "Title": ""
+            },
+            {
+                "Year": "2002",
+                "Title": ""
+            },
+            {
+                "Year": "2001",
+                "Title": ""
+            },
+            {
+                "Year": "2000",
+                "Title": ""
+            },
+            {
+                "Year": "1999",
+                "Title": ""
+            },
+            {
+                "Year": "1998",
+                "Title": ""
+            },
+            {
+                "Year": "1997",
+                "Title": ""
+            },
+            {
+                "Year": "1996",
+                "Title": ""
+            },
+            {
+                "Year": "1995",
+                "Title": ""
+            },
+            {
+                "Year": "1994",
+                "Title": ""
+            },
+            {
+                "Year": "1993",
+                "Title": ""
+            },
+            {
+                "Year": "1992",
+                "Title": ""
+            },
+            {
+                "Year": "1991",
+                "Title": ""
+            },
+            {
+                "Year": "1990",
+                "Title": ""
+            },
+            {
+                "Year": "1989",
+                "Title": ""
+            },
+            {
+                "Year": "1988",
+                "Title": ""
+            }
+        ],
+        "BSFC": [
+            {
+                "Year": "2018",
+                "Title": "The Square"
+            },
+            {
+                "Year": "2017",
+                "Title": "The Handmaiden"
+            },
+            {
+                "Year": "2016",
+                "Title": "The Look of Silence"
+            },
+            {
+                "Year": "2015",
+                "Title": "Two Days, One Night"
+            },
+            {
+                "Year": "2014",
+                "Title": "The Great Beauty"
+            },
+            {
+                "Year": "2013",
+                "Title": "Amour"
+            },
+            {
+                "Year": "2012",
+                "Title": "Incendies"
+            },
+            {
+                "Year": "2011",
+                "Title": "Mother"
+            },
+            {
+                "Year": "2010",
+                "Title": "Summer Hours"
+            },
+            {
+                "Year": "2009",
+                "Title": "Let the Right One In"
+            },
+            {
+                "Year": "2008",
+                "Title": "The Diving Bell and the Butterfly"
+            },
+            {
+                "Year": "2007",
+                "Title": "Pan's Labyrinth"
+            },
+            {
+                "Year": "2006",
+                "Title": "Kung Fu Hustle"
+            },
+            {
+                "Year": "2005",
+                "Title": "House of Flying Daggers"
+            },
+            {
+                "Year": "2004",
+                "Title": "The Triplets of Belleville"
+            },
+            {
+                "Year": "2003",
+                "Title": "And Your Mother Too"
+            },
+            {
+                "Year": "2002",
+                "Title": "Love's a Bitch"
+            },
+            {
+                "Year": "2001",
+                "Title": "Crouching Tiger, Hidden Dragon"
+            },
+            {
+                "Year": "2000",
+                "Title": "All About My Mother"
+            },
+            {
+                "Year": "1999",
+                "Title": "A Taste of Cherry"
+            },
+            {
+                "Year": "1998",
+                "Title": "Underground"
+            },
+            {
+                "Year": "1997",
+                "Title": "My Favorite Season"
+            },
+            {
+                "Year": "1996",
+                "Title": "Mina Tannenbaum"
+            },
+            {
+                "Year": "1995",
+                "Title": "Three Colours: Red"
+            },
+            {
+                "Year": "1994",
+                "Title": "Farewell My Concubine"
+            },
+            {
+                "Year": "1993",
+                "Title": "Raise the Red Lantern"
+            },
+            {
+                "Year": "1992",
+                "Title": "Europa Europa"
+            },
+            {
+                "Year": "1991",
+                "Title": "Mr. Hire"
+            },
+            {
+                "Year": "1990",
+                "Title": ""
+            },
+            {
+                "Year": "1989",
+                "Title": ""
+            },
+            {
+                "Year": "1988",
+                "Title": ""
+            }
+        ],
+        "SFFCC": [
+            {
+                "Year": "2018",
+                "Title": "BPM"
+            },
+            {
+                "Year": "2017",
+                "Title": "The Handmaiden"
+            },
+            {
+                "Year": "2016",
+                "Title": "Son of Saul"
+            },
+            {
+                "Year": "2015",
+                "Title": "Ida"
+            },
+            {
+                "Year": "2014",
+                "Title": "Blue is the Warmest Color"
+            },
+            {
+                "Year": "2013",
+                "Title": "Amour"
+            },
+            {
+                "Year": "2012",
+                "Title": "Certified Copy"
+            },
+            {
+                "Year": "2011",
+                "Title": "Mother"
+            },
+            {
+                "Year": "2010",
+                "Title": "You, the Living"
+            },
+            {
+                "Year": "2009",
+                "Title": "Let the Right One In"
+            },
+            {
+                "Year": "2008",
+                "Title": "The Diving Bell and the Butterfly"
+            },
+            {
+                "Year": "2007",
+                "Title": "Pan's Labyrinth"
+            },
+            {
+                "Year": "2006",
+                "Title": "Hidden"
+            },
+            {
+                "Year": "2005",
+                "Title": "Maria Full of Grace"
+            },
+            {
+                "Year": "2004",
+                "Title": "The Son"
+            },
+            {
+                "Year": "2003",
+                "Title": "And Your Mother Too"
+            },
+            {
+                "Year": "2002",
+                "Title": ""
+            },
+            {
+                "Year": "2001",
+                "Title": ""
+            },
+            {
+                "Year": "2000",
+                "Title": ""
+            },
+            {
+                "Year": "1999",
+                "Title": ""
+            },
+            {
+                "Year": "1998",
+                "Title": ""
+            },
+            {
+                "Year": "1997",
+                "Title": ""
+            },
+            {
+                "Year": "1996",
+                "Title": ""
+            },
+            {
+                "Year": "1995",
+                "Title": ""
+            },
+            {
+                "Year": "1994",
+                "Title": ""
+            },
+            {
+                "Year": "1993",
+                "Title": ""
+            },
+            {
+                "Year": "1992",
+                "Title": ""
+            },
+            {
+                "Year": "1991",
+                "Title": ""
+            },
+            {
+                "Year": "1990",
+                "Title": ""
+            },
+            {
+                "Year": "1989",
+                "Title": ""
+            },
+            {
+                "Year": "1988",
+                "Title": ""
+            }
+        ],
+        "LFCC": [
+            {
+                "Year": "2018",
+                "Title": "Elle"
+            },
+            {
+                "Year": "2017",
+                "Title": "Toni Erdmann"
+            },
+            {
+                "Year": "2016",
+                "Title": "The Look of Silence"
+            },
+            {
+                "Year": "2015",
+                "Title": "Leviathan"
+            },
+            {
+                "Year": "2014",
+                "Title": "Blue Is the Warmest Colour"
+            },
+            {
+                "Year": "2013",
+                "Title": "Rust and Bone"
+            },
+            {
+                "Year": "2012",
+                "Title": "A Separation"
+            },
+            {
+                "Year": "2011",
+                "Title": "Of Gods and Men"
+            },
+            {
+                "Year": "2010",
+                "Title": "Let the Right One In"
+            },
+            {
+                "Year": "2009",
+                "Title": ""
+            },
+            {
+                "Year": "2008",
+                "Title": "The Lives of Others"
+            },
+            {
+                "Year": "2007",
+                "Title": "Volver"
+            },
+            {
+                "Year": "2006",
+                "Title": "Downfall"
+            },
+            {
+                "Year": "2005",
+                "Title": "The Motorcycle Diaries"
+            },
+            {
+                "Year": "2004",
+                "Title": "Good Bye, Lenin!"
+            },
+            {
+                "Year": "2003",
+                "Title": "And Your Mother Too"
+            },
+            {
+                "Year": "2002",
+                "Title": "Amélie"
+            },
+            {
+                "Year": "2001",
+                "Title": "Crouching Tiger, Hidden Dragon"
+            },
+            {
+                "Year": "2000",
+                "Title": "All About My Mother"
+            },
+            {
+                "Year": "1999",
+                "Title": "Shall We Dance?"
+            },
+            {
+                "Year": "1998",
+                "Title": "Ridicule"
+            },
+            {
+                "Year": "1997",
+                "Title": "Les Misérables"
+            },
+            {
+                "Year": "1996",
+                "Title": "Il Postino: The Postman"
+            },
+            {
+                "Year": "1995",
+                "Title": "Farewell My Concubine"
+            },
+            {
+                "Year": "1994",
+                "Title": "A Heart in Winter"
+            },
+            {
+                "Year": "1993",
+                "Title": "Raise the Red Lantern"
+            },
+            {
+                "Year": "1992",
+                "Title": "Cyrano de Bergerac"
+            },
+            {
+                "Year": "1991",
+                "Title": "Cinema Paradiso"
+            },
+            {
+                "Year": "1990",
+                "Title": "Au revoir les enfants"
+            },
+            {
+                "Year": "1989",
+                "Title": "Babette's Feast"
+            },
+            {
+                "Year": "1988",
+                "Title": "Jean de Florette"
+            }
+        ],
+        "TFCA": [
+            {
+                "Year": "2018",
+                "Title": "The Square"
+            },
+            {
+                "Year": "2017",
+                "Title": "Toni Erdmann"
+            },
+            {
+                "Year": "2016",
+                "Title": "Phoenix"
+            },
+            {
+                "Year": "2015",
+                "Title": "Force Majeure"
+            },
+            {
+                "Year": "2014",
+                "Title": "A Touch of Sin"
+            },
+            {
+                "Year": "2013",
+                "Title": "Amour"
+            },
+            {
+                "Year": "2012",
+                "Title": "Mysteries of Lisbon"
+            },
+            {
+                "Year": "2011",
+                "Title": "Uncle Boonmee Who Can Recall His Past Lives"
+            },
+            {
+                "Year": "2010",
+                "Title": "The White Ribbon"
+            },
+            {
+                "Year": "2009",
+                "Title": "Let the Right One In"
+            },
+            {
+                "Year": "2008",
+                "Title": "4 Months, 3 Weeks and 2 Days"
+            },
+            {
+                "Year": "2007",
+                "Title": "L'Enfant"
+            },
+            {
+                "Year": "2006",
+                "Title": "The World"
+            },
+            {
+                "Year": "2005",
+                "Title": "Hero"
+            },
+            {
+                "Year": "2004",
+                "Title": "City of God"
+            },
+            {
+                "Year": "2003",
+                "Title": ""
+            },
+            {
+                "Year": "2002",
+                "Title": ""
+            },
+            {
+                "Year": "2001",
+                "Title": ""
+            },
+            {
+                "Year": "2000",
+                "Title": ""
+            },
+            {
+                "Year": "1999",
+                "Title": ""
+            },
+            {
+                "Year": "1998",
+                "Title": ""
+            },
+            {
+                "Year": "1997",
+                "Title": ""
+            },
+            {
+                "Year": "1996",
+                "Title": ""
+            },
+            {
+                "Year": "1995",
+                "Title": ""
+            },
+            {
+                "Year": "1994",
+                "Title": ""
+            },
+            {
+                "Year": "1993",
+                "Title": ""
+            },
+            {
+                "Year": "1992",
+                "Title": ""
+            },
+            {
+                "Year": "1991",
+                "Title": ""
+            },
+            {
+                "Year": "1990",
+                "Title": ""
+            },
+            {
+                "Year": "1989",
+                "Title": ""
+            },
+            {
+                "Year": "1988",
+                "Title": ""
+            }
+        ],
+        "FFCC": [
+            {
+                "Year": "2018",
+                "Title": "BPM"
+            },
+            {
+                "Year": "2017",
+                "Title": "Elle"
+            },
+            {
+                "Year": "2016",
+                "Title": "The Assassin"
+            },
+            {
+                "Year": "2015",
+                "Title": "The Raid 2"
+            },
+            {
+                "Year": "2014",
+                "Title": "Blue Is the Warmest Colour"
+            },
+            {
+                "Year": "2013",
+                "Title": "The Intouchables"
+            },
+            {
+                "Year": "2012",
+                "Title": "The Skin I Live In"
+            },
+            {
+                "Year": "2011",
+                "Title": "I Am Love"
+            },
+            {
+                "Year": "2010",
+                "Title": "Without Name"
+            },
+            {
+                "Year": "2009",
+                "Title": "Let the Right One In"
+            },
+            {
+                "Year": "2008",
+                "Title": "The Diving Bell and the Butterfly"
+            },
+            {
+                "Year": "2007",
+                "Title": "Pan's Labyrinth"
+            },
+            {
+                "Year": "2006",
+                "Title": "Kung Fu Hustle"
+            },
+            {
+                "Year": "2005",
+                "Title": "A Very Long Engagement"
+            },
+            {
+                "Year": "2004",
+                "Title": "The Man on the Train"
+            },
+            {
+                "Year": "2003",
+                "Title": "And Your Mother Too"
+            },
+            {
+                "Year": "2002",
+                "Title": "Amélie"
+            },
+            {
+                "Year": "2001",
+                "Title": "Crouching Tiger, Hidden Dragon"
+            },
+            {
+                "Year": "2000",
+                "Title": "Run Lola Run"
+            },
+            {
+                "Year": "1999",
+                "Title": "Life Is Beautiful"
+            },
+            {
+                "Year": "1998",
+                "Title": "Shall We Dance?"
+            },
+            {
+                "Year": "1997",
+                "Title": "Ridicule"
+            },
+            {
+                "Year": "1996",
+                "Title": ""
+            },
+            {
+                "Year": "1995",
+                "Title": ""
+            },
+            {
+                "Year": "1994",
+                "Title": ""
+            },
+            {
+                "Year": "1993",
+                "Title": ""
+            },
+            {
+                "Year": "1992",
+                "Title": ""
+            },
+            {
+                "Year": "1991",
+                "Title": ""
+            },
+            {
+                "Year": "1990",
+                "Title": ""
+            },
+            {
+                "Year": "1989",
+                "Title": ""
+            },
+            {
+                "Year": "1988",
+                "Title": ""
             }
         ]
     }

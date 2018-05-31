@@ -1,0 +1,1570 @@
+{
+    "Best Picture": {
+        "2018": [
+            "The Shape of Water",
+            "Call Me by Your Name",
+            "Darkest Hour",
+            "Dunkirk",
+            "Get Out",
+            "Lady Bird",
+            "Phantom Thread",
+            "The Post",
+            "Three Billboards Outside Ebbing, Missouri"
+        ],
+        "2017": [
+            "Moonlight",
+            "Arrival",
+            "Fences",
+            "Hacksaw Ridge",
+            "Hell or High Water",
+            "Hidden Figures",
+            "La La Land",
+            "Lion",
+            "Manchester by the Sea"
+        ],
+        "2016": [
+            "Spotlight",
+            "The Big Short",
+            "Bridge of Spies",
+            "Brooklyn",
+            "Mad Max: Fury Road",
+            "The Martian",
+            "The Revenant",
+            "Room"
+        ],
+        "2015": [
+            "Birdman or (The Unexpected Virtue of Ignorance)",
+            "American Sniper",
+            "Boyhood",
+            "The Grand Budapest Hotel",
+            "The Imitation Game",
+            "Selma",
+            "The Theory of Everything",
+            "Whiplash"
+        ],
+        "2014": [
+            "12 Years a Slave",
+            "American Hustle",
+            "Captain Phillips",
+            "Dallas Buyers Club",
+            "Gravity",
+            "Her",
+            "Nebraska",
+            "Philomena",
+            "The Wolf of Wall Street"
+        ],
+        "2013": [
+            "Argo",
+            "Amour",
+            "Beasts of the Southern Wild",
+            "Django Unchained",
+            "Les Misérables",
+            "Life of Pi",
+            "Lincoln",
+            "Silver Linings Playbook",
+            "Zero Dark Thirty"
+        ],
+        "2012": [
+            "The Artist",
+            "The Descendants",
+            "Extremely Loud & Incredibly Close",
+            "The Help",
+            "Hugo",
+            "Midnight in Paris",
+            "Moneyball",
+            "The Tree of Life",
+            "War Horse"
+        ],
+        "2011": [
+            "The King's Speech",
+            "127 Hours",
+            "Black Swan",
+            "The Fighter",
+            "Inception",
+            "The Kids Are All Right",
+            "The Social Network",
+            "Toy Story 3",
+            "True Grit",
+            "Winter's Bone"
+        ],
+        "2010": [
+            "The Hurt Locker",
+            "Avatar",
+            "The Blind Side",
+            "District 9",
+            "An Education",
+            "Inglourious Basterds",
+            "Precious: Based on the Novel 'Push' by Sapphire",
+            "A Serious Man",
+            "Up",
+            "Up in the Air"
+        ],
+        "2009": [
+            "Slumdog Millionaire",
+            "The Curious Case of Benjamin Button",
+            "Frost/Nixon",
+            "Milk",
+            "The Reader"
+        ],
+        "2008": [
+            "No Country for Old Men",
+            "Atonement",
+            "Juno",
+            "Michael Clayton",
+            "There Will Be Blood"
+        ],
+        "2007": [
+            "The Departed",
+            "Babel",
+            "Letters from Iwo Jima",
+            "Little Miss Sunshine",
+            "The Queen"
+        ],
+        "2006": [
+            "Crash",
+            "Brokeback Mountain",
+            "Capote",
+            "Good Night, and Good Luck",
+            "Munich"
+        ],
+        "2005": [
+            "Million Dollar Baby",
+            "The Aviator",
+            "Finding Neverland",
+            "Ray",
+            "Sideways"
+        ],
+        "2004": [
+            "The Lord of the Rings: The Return of the King",
+            "Lost in Translation",
+            "Master and Commander: The Far Side of the World",
+            "Mystic River",
+            "Seabiscuit"
+        ],
+        "2003": [
+            "Chicago",
+            "Gangs of New York",
+            "The Hours",
+            "The Lord of the Rings: The Two Towers",
+            "The Pianist"
+        ],
+        "2002": [
+            "A Beautiful Mind",
+            "Gosford Park",
+            "In the Bedroom",
+            "The Lord of the Rings: The Fellowship of the Ring",
+            "Moulin Rouge!"
+        ],
+        "2001": [
+            "Gladiator",
+            "Chocolat",
+            "Crouching Tiger, Hidden Dragon",
+            "Erin Brockovich",
+            "Traffic"
+        ],
+        "2000": [
+            "American Beauty",
+            "The Cider House Rules",
+            "The Green Mile",
+            "The Insider",
+            "The Sixth Sense"
+        ],
+        "1999": [
+            "Shakespeare in Love",
+            "Elizabeth",
+            "Life Is Beautiful",
+            "Saving Private Ryan",
+            "The Thin Red Line"
+        ],
+        "1998": [
+            "Titanic",
+            "As Good as It Gets",
+            "The Full Monty",
+            "Good Will Hunting",
+            "L.A. Confidential"
+        ],
+        "1997": [
+            "The English Patient",
+            "Fargo",
+            "Jerry Maguire",
+            "Secrets & Lies",
+            "Shine"
+        ],
+        "1996": [
+            "Braveheart",
+            "Apollo 13",
+            "Babe",
+            "The Postman",
+            "Sense and Sensibility"
+        ],
+        "1995": [
+            "Forrest Gump",
+            "Four Weddings and a Funeral",
+            "Pulp Fiction",
+            "Quiz Show",
+            "The Shawshank Redemption"
+        ],
+        "1994": [
+            "Schindler's List",
+            "The Fugitive",
+            "In the Name of the Father",
+            "The Piano",
+            "The Remains of the Day"
+        ],
+        "1993": [
+            "Unforgiven",
+            "The Crying Game",
+            "A Few Good Men",
+            "Howards End",
+            "Scent of a Woman"
+        ],
+        "1992": [
+            "The Silence of the Lambs",
+            "Beauty and the Beast",
+            "Bugsy",
+            "JFK",
+            "The Prince of Tides"
+        ],
+        "1991": [
+            "Dances with Wolves",
+            "Awakenings",
+            "Ghost",
+            "The Godfather Part III",
+            "Goodfellas"
+        ],
+        "1990": [
+            "Driving Miss Daisy",
+            "Born on the Fourth of July",
+            "Dead Poets Society",
+            "Field of Dreams",
+            "My Left Foot"
+        ],
+        "1989": [
+            "Rain Man",
+            "The Accidental Tourist",
+            "Dangerous Liaisons",
+            "Mississippi Burning",
+            "Working Girl"
+        ],
+        "1988": [
+            "The Last Emperor",
+            "Broadcast News",
+            "Fatal Attraction",
+            "Hope and Glory",
+            "Moonstruck"
+        ]
+    },
+    "Best Director": {
+        "2018": [
+            "Guillermo del Toro",
+            "Paul Thomas Anderson",
+            "Greta Gerwig",
+            "Christopher Nolan",
+            "Jordan Peele"
+        ],
+        "2017": [
+            "Damien Chazelle",
+            "Mel Gibson",
+            "Barry Jenkins",
+            "Kenneth Lonergan",
+            "Denis Villeneuve"
+        ],
+        "2016": [
+            "Alejandro G. Iñárritu",
+            "Lenny Abrahamson",
+            "Tom McCarthy",
+            "Adam McKay",
+            "George Miller"
+        ],
+        "2015": [
+            "Alejandro G. Iñárritu",
+            "Wes Anderson",
+            "Richard Linklater",
+            "Bennett Miller",
+            "Morten Tyldum"
+        ],
+        "2014": [
+            "Alfonso Cuarón",
+            "Steve McQueen",
+            "Alexander Payne",
+            "David O. Russell",
+            "Martin Scorsese"
+        ],
+        "2013": [
+            "Ang Lee",
+            "Michael Haneke",
+            "David O. Russell",
+            "Steven Spielberg",
+            "Benh Zeitlin"
+        ],
+        "2012": [
+            "Michel Hazanavicius",
+            "Woody Allen",
+            "Terrence Malick",
+            "Alexander Payne",
+            "Martin Scorsese"
+        ],
+        "2011": [
+            "Tom Hooper",
+            "Darren Aronofsky",
+            "Joel Coen and Ethan Coen",
+            "David Fincher",
+            "David O. Russell"
+        ],
+        "2010": [
+            "Kathryn Bigelow",
+            "James Cameron",
+            "Lee Daniels",
+            "Jason Reitman",
+            "Quentin Tarantino"
+        ],
+        "2009": [
+            "Danny Boyle",
+            "Stephen Daldry",
+            "David Fincher",
+            "Ron Howard",
+            "Gus Van Sant"
+        ],
+        "2008": [
+            "Joel Coen and Ethan Coen",
+            "Paul Thomas Anderson",
+            "Tony Gilroy",
+            "Jason Reitman",
+            "Julian Schnabel"
+        ],
+        "2007": [
+            "Martin Scorsese",
+            "Clint Eastwood",
+            "Stephen Frears",
+            "Paul Greengrass",
+            "Alejandro González Iñárritu"
+        ],
+        "2006": [
+            "Ang Lee",
+            "George Clooney",
+            "Paul Haggis",
+            "Bennett Miller",
+            "Steven Spielberg"
+        ],
+        "2005": [
+            "Clint Eastwood",
+            "Taylor Hackford",
+            "Mike Leigh",
+            "Alexander Payne",
+            "Martin Scorsese"
+        ],
+        "2004": [
+            "Peter Jackson",
+            "Sofia Coppola",
+            "Clint Eastwood",
+            "Fernando Meirelles",
+            "Peter Weir"
+        ],
+        "2003": [
+            "Roman Polanski",
+            "Pedro Almodóvar",
+            "Stephen Daldry",
+            "Rob Marshall",
+            "Martin Scorsese"
+        ],
+        "2002": [
+            "Ron Howard",
+            "Robert Altman",
+            "Peter Jackson",
+            "David Lynch",
+            "Ridley Scott"
+        ],
+        "2001": [
+            "Steven Soderbergh",
+            "Stephen Daldry",
+            "Ang Lee",
+            "Ridley Scott",
+            "Steven Soderbergh"
+        ],
+        "2000": [
+            "Sam Mendes",
+            "Lasse Hallström",
+            "Spike Jonze",
+            "Michael Mann",
+            "M. Night Shyamalan"
+        ],
+        "1999": [
+            "Steven Spielberg",
+            "Roberto Benigni",
+            "John Madden",
+            "Terrence Malick",
+            "Peter Weir"
+        ],
+        "1998": [
+            "James Cameron",
+            "Peter Cattaneo",
+            "Atom Egoyan",
+            "Curtis Hanson",
+            "Gus Van Sant"
+        ],
+        "1997": [
+            "Anthony Minghella",
+            "Joel Coen",
+            "Miloš Forman",
+            "Scott Hicks",
+            "Mike Leigh"
+        ],
+        "1996": [
+            "Mel Gibson",
+            "Mike Figgis",
+            "Chris Noonan",
+            "Michael Radford",
+            "Tim Robbins"
+        ],
+        "1995": [
+            "Robert Zemeckis",
+            "Woody Allen",
+            "Krzysztof Kieślowski",
+            "Robert Redford",
+            "Quentin Tarantino"
+        ],
+        "1994": [
+            "Steven Spielberg",
+            "Robert Altman",
+            "Jane Campion",
+            "James Ivory",
+            "Jim Sheridan"
+        ],
+        "1993": [
+            "Clint Eastwood",
+            "Robert Altman",
+            "Martin Brest",
+            "James Ivory",
+            "Neil Jordan"
+        ],
+        "1992": [
+            "Jonathan Demme",
+            "Barry Levinson",
+            "Ridley Scott",
+            "John Singleton",
+            "Oliver Stone"
+        ],
+        "1991": [
+            "Kevin Costner",
+            "Francis Ford Coppola",
+            "Stephen Frears",
+            "Barbet Schroeder",
+            "Martin Scorsese"
+        ],
+        "1990": [
+            "Oliver Stone",
+            "Woody Allen",
+            "Jim Sheridan",
+            "Kenneth Branagh",
+            "Peter Weir"
+        ],
+        "1989": [
+            "Barry Levinson",
+            "Charles Crichton",
+            "Mike Nichols",
+            "Alan Parker",
+            "Martin Scorsese"
+        ],
+        "1988": [
+            "Bernardo Bertolucci",
+            "John Boorman",
+            "Lasse Hallström",
+            "Norman Jewison",
+            "Adrian Lyne"
+        ]
+    },
+    "Best Actor in a Leading Role": {
+        "2018": [
+            "Gary Oldman",
+            "Timothée Chalamet",
+            "Daniel Day-Lewis",
+            "Daniel Kaluuya",
+            "Denzel Washington"
+        ],
+        "2017": [
+            "Casey Affleck",
+            "Andrew Garfield",
+            "Ryan Gosling",
+            "Viggo Mortensen",
+            "Denzel Washington"
+        ],
+        "2016": [
+            "Leonardo DiCaprio",
+            "Bryan Cranston",
+            "Matt Damon",
+            "Michael Fassbender",
+            "Eddie Redmayne"
+        ],
+        "2015": [
+            "Eddie Redmayne",
+            "Steve Carell",
+            "Bradley Cooper",
+            "Benedict Cumberbatch",
+            "Michael Keaton"
+        ],
+        "2014": [
+            "Matthew McConaughey",
+            "Christian Bale",
+            "Bruce Dern",
+            "Leonardo DiCaprio",
+            "Chiwetel Ejiofor"
+        ],
+        "2013": [
+            "Daniel Day-Lewis",
+            "Bradley Cooper",
+            "Hugh Jackman",
+            "Joaquin Phoenix",
+            "Denzel Washington"
+        ],
+        "2012": [
+            "Jean Dujardin",
+            "Demián Bichir",
+            "George Clooney",
+            "Gary Oldman",
+            "Brad Pitt"
+        ],
+        "2011": [
+            "Colin Firth",
+            "Javier Bardem",
+            "Jeff Bridges",
+            "Jesse Eisenberg",
+            "James Franco"
+        ],
+        "2010": [
+            "Jeff Bridges",
+            "George Clooney",
+            "Colin Firth",
+            "Morgan Freeman",
+            "Jeremy Renner"
+        ],
+        "2009": [
+            "Sean Penn",
+            "Richard Jenkins",
+            "Frank Langella",
+            "Brad Pitt",
+            "Mickey Rourke"
+        ],
+        "2008": [
+            "Daniel Day-Lewis",
+            "George Clooney",
+            "Johnny Depp",
+            "Tommy Lee Jones",
+            "Viggo Mortensen"
+        ],
+        "2007": [
+            "Forest Whitaker",
+            "Leonardo DiCaprio",
+            "Ryan Gosling",
+            "Peter O'Toole",
+            "Will Smith"
+        ],
+        "2006": [
+            "Philip Seymour Hoffman",
+            "Terrence Howard",
+            "Heath Ledger",
+            "Joaquin Phoenix",
+            "David Strathairn"
+        ],
+        "2005": [
+            "Jamie Foxx",
+            "Don Cheadle",
+            "Johnny Depp",
+            "Leonardo DiCaprio",
+            "Clint Eastwood"
+        ],
+        "2004": [
+            "Sean Penn",
+            "Johnny Depp",
+            "Ben Kingsley",
+            "Jude Law",
+            "Bill Murray"
+        ],
+        "2003": [
+            "Adrien Brody",
+            "Nicolas Cage",
+            "Michael Caine",
+            "Daniel Day-Lewis",
+            "Jack Nicholson"
+        ],
+        "2002": [
+            "Denzel Washington",
+            "Russell Crowe",
+            "Sean Penn",
+            "Will Smith",
+            "Tom Wilkinson"
+        ],
+        "2001": [
+            "Russell Crowe",
+            "Javier Bardem",
+            "Tom Hanks",
+            "Ed Harris",
+            "Geoffrey Rush"
+        ],
+        "2000": [
+            "Kevin Spacey",
+            "Russell Crowe",
+            "Richard Farnsworth",
+            "Sean Penn",
+            "Denzel Washington"
+        ],
+        "1999": [
+            "Roberto Benigni",
+            "Tom Hanks",
+            "Ian McKellen",
+            "Nick Nolte",
+            "Edward Norton"
+        ],
+        "1998": [
+            "Jack Nicholson",
+            "Matt Damon",
+            "Robert Duvall",
+            "Peter Fonda",
+            "Dustin Hoffman"
+        ],
+        "1997": [
+            "Geoffrey Rush",
+            "Tom Cruise",
+            "Ralph Fiennes",
+            "Woody Harrelson",
+            "Billy Bob Thornton"
+        ],
+        "1996": [
+            "Nicolas Cage",
+            "Richard Dreyfuss",
+            "Anthony Hopkins",
+            "Sean Penn",
+            "Massimo Troisi"
+        ],
+        "1995": [
+            "Tom Hanks",
+            "Morgan Freeman",
+            "Nigel Hawthorne",
+            "Paul Newman",
+            "John Travolta"
+        ],
+        "1994": [
+            "Tom Hanks",
+            "Daniel Day-Lewis",
+            "Laurence Fishburne",
+            "Anthony Hopkins",
+            "Liam Neeson"
+        ],
+        "1993": [
+            "Al Pacino",
+            "Robert Downey Jr.",
+            "Clint Eastwood",
+            "Stephen Rea",
+            "Denzel Washington"
+        ],
+        "1992": [
+            "Anthony Hopkins",
+            "Warren Beatty",
+            "Robert De Niro",
+            "Nick Nolte",
+            "Robin Williams"
+        ],
+        "1991": [
+            "Jeremy Irons",
+            "Kevin Costner",
+            "Robert De Niro",
+            "Gérard Depardieu",
+            "Richard Harris"
+        ],
+        "1990": [
+            "Daniel Day-Lewis",
+            "Kenneth Branagh",
+            "Tom Cruise",
+            "Morgan Freeman",
+            "Robin Williams"
+        ],
+        "1989": [
+            "Dustin Hoffman",
+            "Gene Hackman",
+            "Tom Hanks",
+            "Edward James Olmos",
+            "Max von Sydow"
+        ],
+        "1988": [
+            "Michael Douglas",
+            "William Hurt",
+            "Marcello Mastroianni",
+            "Jack Nicholson",
+            "Robin Williams"
+        ]
+    },
+    "Best Actress in a Leading Role": {
+        "2018": [
+            "Frances McDormand",
+            "Sally Hawkins",
+            "Margot Robbie",
+            "Saoirse Ronan",
+            "Meryl Streep"
+        ],
+        "2017": [
+            "Emma Stone",
+            "Isabelle Huppert",
+            "Ruth Negga",
+            "Natalie Portman",
+            "Meryl Streep"
+        ],
+        "2016": [
+            "Brie Larson",
+            "Cate Blanchett",
+            "Jennifer Lawrence",
+            "Charlotte Rampling",
+            "Saoirse Ronan"
+        ],
+        "2015": [
+            "Julianne Moore ",
+            "Marion Cotillard",
+            "Felicity Jones",
+            "Rosamund Pike",
+            "Reese Witherspoon"
+        ],
+        "2014": [
+            "Cate Blanchett",
+            "Amy Adams",
+            "Sandra Bullock",
+            "Judi Dench",
+            "Meryl Streep"
+        ],
+        "2013": [
+            "Jennifer Lawrence",
+            "Jessica Chastain",
+            "Emmanuelle Riva",
+            "Quvenzhané Wallis",
+            "Naomi Watts"
+        ],
+        "2012": [
+            "Meryl Streep",
+            "Glenn Close",
+            "Viola Davis",
+            "Rooney Mara",
+            "Michelle Williams"
+        ],
+        "2011": [
+            "Natalie Portman",
+            "Annette Bening",
+            "Nicole Kidman",
+            "Jennifer Lawrence",
+            "Michelle Williams"
+        ],
+        "2010": [
+            "Sandra Bullock",
+            "Helen Mirren",
+            "Carey Mulligan",
+            "Gabourey Sidibe",
+            "Meryl Streep"
+        ],
+        "2009": [
+            "Kate Winslet",
+            "Anne Hathaway",
+            "Angelina Jolie",
+            "Melissa Leo",
+            "Meryl Streep"
+        ],
+        "2008": [
+            "Marion Cotillard",
+            "Cate Blanchett",
+            "Julie Christie",
+            "Laura Linney",
+            "Ellen Page"
+        ],
+        "2007": [
+            "Helen Mirren",
+            "Penélope Cruz",
+            "Judi Dench",
+            "Meryl Streep",
+            "Kate Winslet"
+        ],
+        "2006": [
+            "Reese Witherspoon",
+            "Judi Dench",
+            "Felicity Huffman",
+            "Keira Knightley",
+            "Charlize Theron"
+        ],
+        "2005": [
+            "Hilary Swank",
+            "Annette Bening",
+            "Catalina Sandino Moreno",
+            "Imelda Staunton",
+            "Kate Winslet"
+        ],
+        "2004": [
+            "Charlize Theron",
+            "Keisha Castle-Hughes",
+            "Diane Keaton",
+            "Samantha Morton",
+            "Naomi Watts"
+        ],
+        "2003": [
+            "Nicole Kidman",
+            "Salma Hayek",
+            "Diane Lane",
+            "Julianne Moore",
+            "Renée Zellweger"
+        ],
+        "2002": [
+            "Halle Berry",
+            "Judi Dench",
+            "Nicole Kidman",
+            "Sissy Spacek",
+            "Renée Zellweger"
+        ],
+        "2001": [
+            "Julia Roberts",
+            "Joan Allen",
+            "Juliette Binoche",
+            "Ellen Burstyn",
+            "Laura Linney"
+        ],
+        "2000": [
+            "Hilary Swank",
+            "Annette Bening",
+            "Janet McTeer",
+            "Julianne Moore",
+            "Meryl Streep"
+        ],
+        "1999": [
+            "Gwyneth Paltrow",
+            "Cate Blanchett",
+            "Fernanda Montenegro",
+            "Meryl Streep",
+            "Emily Watson"
+        ],
+        "1998": [
+            "Helen Hunt",
+            "Helena Bonham Carter",
+            "Julie Christie",
+            "Judi Dench",
+            "Kate Winslet"
+        ],
+        "1997": [
+            "Frances McDormand",
+            "Brenda Blethyn",
+            "Diane Keaton",
+            "Kristin Scott Thomas",
+            "Emily Watson"
+        ],
+        "1996": [
+            "Susan Sarandon",
+            "Elisabeth Shue",
+            "Sharon Stone",
+            "Meryl Streep",
+            "Emma Thompson"
+        ],
+        "1995": [
+            "Jessica Lange",
+            "Jodie Foster",
+            "Miranda Richardson",
+            "Winona Ryder",
+            "Susan Sarandon"
+        ],
+        "1994": [
+            "Holly Hunter",
+            "Angela Bassett",
+            "Stockard Channing",
+            "Emma Thompson",
+            "Debra Winger"
+        ],
+        "1993": [
+            "Emma Thompson",
+            "Catherine Deneuve",
+            "Mary McDonnell",
+            "Michelle Pfeiffer",
+            "Susan Sarandon"
+        ],
+        "1992": [
+            "Jodie Foster",
+            "Geena Davis",
+            "Laura Dern",
+            "Bette Midler",
+            "Susan Sarandon"
+        ],
+        "1991": [
+            "Kathy Bates",
+            "Anjelica Huston",
+            "Julia Roberts",
+            "Meryl Streep",
+            "Joanne Woodward"
+        ],
+        "1990": [
+            "Jessica Tandy",
+            "Isabelle Adjani",
+            "Pauline Collins",
+            "Jessica Lange",
+            "Michelle Pfeiffer"
+        ],
+        "1989": [
+            "Jodie Foster",
+            "Glenn Close",
+            "Melanie Griffith",
+            "Meryl Streep",
+            "Sigourney Weaver"
+        ],
+        "1988": [
+            "Cher",
+            "Glenn Close",
+            "Holly Hunter",
+            "Sally Kirkland",
+            "Meryl Streep"
+        ]
+    },
+    "Best Actor in a Supporting Role": {
+        "2018": [
+            "Sam Rockwell",
+            "Willem Dafoe",
+            "Woody Harrelson",
+            "Richard Jenkins",
+            "Christopher Plummer"
+        ],
+        "2017": [
+            "Mahershala Ali",
+            "Jeff Bridges",
+            "Lucas Hedges",
+            "Dev Patel",
+            "Michael Shannon"
+        ],
+        "2016": [
+            "Mark Rylance",
+            "Christian Bale",
+            "Tom Hardy",
+            "Mark Ruffalo",
+            "Sylvester Stallone"
+        ],
+        "2015": [
+            "J. K. Simmons",
+            "Robert Duvall",
+            "Ethan Hawke",
+            "Edward Norton",
+            "Mark Ruffalo"
+        ],
+        "2014": [
+            "Jared Leto",
+            "Barkhad Abdi",
+            "Bradley Cooper",
+            "Michael Fassbender",
+            "Jonah Hill"
+        ],
+        "2013": [
+            "Christoph Waltz",
+            "Alan Arkin",
+            "Robert De Niro",
+            "Philip Seymour Hoffman",
+            "Tommy Lee Jones"
+        ],
+        "2012": [
+            "Christopher Plummer",
+            "Kenneth Branagh",
+            "Jonah Hill",
+            "Nick Nolte",
+            "Max von Sydow"
+        ],
+        "2011": [
+            "Christian Bale",
+            "John Hawkes",
+            "Jeremy Renner",
+            "Mark Ruffalo",
+            "Geoffrey Rush"
+        ],
+        "2010": [
+            "Christoph Waltz",
+            "Matt Damon",
+            "Woody Harrelson",
+            "Christopher Plummer",
+            "Stanley Tucci"
+        ],
+        "2009": [
+            "Heath Ledger",
+            "Josh Brolin",
+            "Robert Downey Jr.",
+            "Philip Seymour Hoffman",
+            "Michael Shannon"
+        ],
+        "2008": [
+            "Javier Bardem",
+            "Casey Affleck",
+            "Philip Seymour Hoffman",
+            "Hal Holbrook",
+            "Tom Wilkinson"
+        ],
+        "2007": [
+            "Alan Arkin",
+            "Jackie Earle Haley",
+            "Djimon Hounsou",
+            "Eddie Murphy",
+            "Mark Wahlberg"
+        ],
+        "2006": [
+            "George Clooney",
+            "Matt Dillon",
+            "Paul Giamatti",
+            "Jake Gyllenhaal",
+            "William Hurt"
+        ],
+        "2005": [
+            "Morgan Freeman",
+            "Alan Alda",
+            "Thomas Haden Church",
+            "Jamie Foxx",
+            "Clive Owen"
+        ],
+        "2004": [
+            "Tim Robbins ",
+            "Alec Baldwin",
+            "Benicio del Toro",
+            "Djimon Hounsou",
+            "Ken Watanabe"
+        ],
+        "2003": [
+            "Chris Cooper",
+            "Ed Harris",
+            "Paul Newman",
+            "John C. Reilly",
+            "Christopher Walken"
+        ],
+        "2002": [
+            "Jim Broadbent",
+            "Ethan Hawke",
+            "Ben Kingsley",
+            "Ian McKellen",
+            "Jon Voight"
+        ],
+        "2001": [
+            "Benicio del Toro",
+            "Jeff Bridges",
+            "Willem Dafoe",
+            "Albert Finney",
+            "Joaquin Phoenix"
+        ],
+        "2000": [
+            "Michael Caine",
+            "Tom Cruise",
+            "Michael Clarke Duncan",
+            "Jude Law",
+            "Haley Joel Osment"
+        ],
+        "1999": [
+            "James Coburn",
+            "Robert Duvall",
+            "Ed Harris",
+            "Geoffrey Rush",
+            "Billy Bob Thornton"
+        ],
+        "1998": [
+            "Robin Williams",
+            "Robert Forster",
+            "Anthony Hopkins",
+            "Greg Kinnear",
+            "Burt Reynolds"
+        ],
+        "1997": [
+            "Cuba Gooding Jr.",
+            "William H. Macy",
+            "Armin Mueller-Stahl",
+            "Edward Norton",
+            "James Woods"
+        ],
+        "1996": [
+            "Kevin Spacey",
+            "James Cromwell",
+            "Ed Harris",
+            "Brad Pitt",
+            "Tim Roth"
+        ],
+        "1995": [
+            "Martin Landau",
+            "Samuel L. Jackson",
+            "Chazz Palminteri",
+            "Paul Scofield",
+            "Gary Sinise"
+        ],
+        "1994": [
+            "Tommy Lee Jones",
+            "Leonardo DiCaprio",
+            "Ralph Fiennes",
+            "John Malkovich",
+            "Pete Postlethwaite"
+        ],
+        "1993": [
+            "Gene Hackman",
+            "Jaye Davidson",
+            "Jack Nicholson",
+            "Al Pacino",
+            "David Paymer"
+        ],
+        "1992": [
+            "Jack Palance",
+            "Tommy Lee Jones",
+            "Harvey Keitel",
+            "Ben Kingsley",
+            "Michael Lerner"
+        ],
+        "1991": [
+            "Joe Pesci",
+            "Bruce Davison",
+            "Andy García",
+            "Graham Greene",
+            "Al Pacino"
+        ],
+        "1990": [
+            "Denzel Washington",
+            "Danny Aiello",
+            "Dan Aykroyd",
+            "Marlon Brando",
+            "Martin Landau"
+        ],
+        "1989": [
+            "Kevin Kline",
+            "Alec Guinness",
+            "Martin Landau",
+            "River Phoenix",
+            "Dean Stockwell"
+        ],
+        "1988": [
+            "Sean Connery",
+            "Albert Brooks",
+            "Morgan Freeman",
+            "Vincent Gardenia",
+            "Denzel Washington"
+        ]
+    },
+    "Best Actress in a Supporting Role": {
+        "2018": [
+            "Allison Janney",
+            "Mary J. Blige",
+            "Lesley Manville",
+            "Laurie Metcalf",
+            "Octavia Spencer"
+        ],
+        "2017": [
+            "Viola Davis",
+            "Naomie Harris",
+            "Nicole Kidman",
+            "Octavia Spencer",
+            "Michelle Williams"
+        ],
+        "2016": [
+            "Alicia Vikander",
+            "Jennifer Jason Leigh",
+            "Rooney Mara",
+            "Rachel McAdams",
+            "Kate Winslet"
+        ],
+        "2015": [
+            "Patricia Arquette",
+            "Laura Dern",
+            "Keira Knightley",
+            "Emma Stone",
+            "Meryl Streep"
+        ],
+        "2014": [
+            "Lupita Nyong'o",
+            "Sally Hawkins",
+            "Jennifer Lawrence",
+            "Julia Roberts",
+            "June Squibb"
+        ],
+        "2013": [
+            "Anne Hathaway",
+            "Amy Adams",
+            "Sally Field",
+            "Helen Hunt",
+            "Jacki Weaver"
+        ],
+        "2012": [
+            "Octavia Spencer",
+            "Bérénice Bejo",
+            "Jessica Chastain",
+            "Melissa McCarthy",
+            "Janet McTeer"
+        ],
+        "2011": [
+            "Melissa Leo",
+            "Amy Adams",
+            "Helena Bonham Carter",
+            "Hailee Steinfeld",
+            "Jacki Weaver"
+        ],
+        "2010": [
+            "Mo'Nique",
+            "Penélope Cruz",
+            "Vera Farmiga",
+            "Maggie Gyllenhaal",
+            "Anna Kendrick"
+        ],
+        "2009": [
+            "Penélope Cruz",
+            "Amy Adams",
+            "Viola Davis",
+            "Taraji P. Henson",
+            "Marisa Tomei"
+        ],
+        "2008": [
+            "Tilda Swinton",
+            "Cate Blanchett",
+            "Ruby Dee",
+            "Saoirse Ronan",
+            "Amy Ryan"
+        ],
+        "2007": [
+            "Jennifer Hudson",
+            "Adriana Barraza",
+            "Cate Blanchett",
+            "Abigail Breslin",
+            "Rinko Kikuchi"
+        ],
+        "2006": [
+            "Rachel Weisz",
+            "Amy Adams",
+            "Catherine Keener",
+            "Frances McDormand",
+            "Michelle Williams"
+        ],
+        "2005": [
+            "Cate Blanchett",
+            "Laura Linney",
+            "Virginia Madsen",
+            "Sophie Okonedo",
+            "Natalie Portman"
+        ],
+        "2004": [
+            "Renée Zellweger",
+            "Shohreh Aghdashloo",
+            "Patricia Clarkson",
+            "Marcia Gay Harden",
+            "Holly Hunter"
+        ],
+        "2003": [
+            "Catherine Zeta-Jones",
+            "Kathy Bates",
+            "Julianne Moore",
+            "Queen Latifah",
+            "Meryl Streep"
+        ],
+        "2002": [
+            "Jennifer Connelly",
+            "Helen Mirren",
+            "Maggie Smith",
+            "Marisa Tomei",
+            "Kate Winslet"
+        ],
+        "2001": [
+            "Marcia Gay Harden",
+            "Judi Dench",
+            "Kate Hudson",
+            "Frances McDormand",
+            "Julie Walters"
+        ],
+        "2000": [
+            "Angelina Jolie",
+            "Toni Collette",
+            "Catherine Keener",
+            "Samantha Morton",
+            "Chloë Sevigny"
+        ],
+        "1999": [
+            "Judi Dench",
+            "Kathy Bates",
+            "Brenda Blethyn",
+            "Rachel Griffiths",
+            "Lynn Redgrave"
+        ],
+        "1998": [
+            "Kim Basinger",
+            "Joan Cusack",
+            "Minnie Driver",
+            "Julianne Moore",
+            "Gloria Stuart"
+        ],
+        "1997": [
+            "Juliette Binoche",
+            "Joan Allen",
+            "Lauren Bacall",
+            "Barbara Hershey",
+            "Marianne Jean-Baptiste"
+        ],
+        "1996": [
+            "Mira Sorvino",
+            "Joan Allen",
+            "Kathleen Quinlan",
+            "Mare Winningham",
+            "Kate Winslet"
+        ],
+        "1995": [
+            "Dianne Wiest",
+            "Rosemary Harris",
+            "Helen Mirren",
+            "Uma Thurman",
+            "Jennifer Tilly"
+        ],
+        "1994": [
+            "Anna Paquin",
+            "Holly Hunter",
+            "Rosie Perez",
+            "Winona Ryder",
+            "Emma Thompson"
+        ],
+        "1993": [
+            "Marisa Tomei",
+            "Judy Davis",
+            "Joan Plowright",
+            "Vanessa Redgrave",
+            "Miranda Richardson"
+        ],
+        "1992": [
+            "Mercedes Ruehl",
+            "Diane Ladd",
+            "Juliette Lewis",
+            "Kate Nelligan",
+            "Jessica Tandy"
+        ],
+        "1991": [
+            "Whoopi Goldberg",
+            "Annette Bening",
+            "Lorraine Bracco",
+            "Diane Ladd",
+            "Mary McDonnell"
+        ],
+        "1990": [
+            "Brenda Fricker",
+            "Anjelica Huston",
+            "Lena Olin",
+            "Julia Roberts",
+            "Dianne Wiest"
+        ],
+        "1989": [
+            "Geena Davis",
+            "Joan Cusack",
+            "Frances McDormand",
+            "Michelle Pfeiffer",
+            "Sigourney Weaver"
+        ],
+        "1988": [
+            "Olympia Dukakis",
+            "Norma Aleandro",
+            "Anne Archer",
+            "Anne Ramsey",
+            "Ann Sothern"
+        ]
+    },
+    "Best Foreign Language Film": {
+        "2018": [
+            "A Fantastic Woman",
+            "Loveless",
+            "The Insult",
+            "On Body and Soul",
+            "The Square"
+        ],
+        "2017": [
+            "The Salesman",
+            "Land of Mine",
+            "A Man Called Ove",
+            "Tanna",
+            "Toni Erdmann"
+        ],
+        "2016": [
+            "Son of Saul",
+            "Embrace of the Serpent",
+            "Mustang",
+            "Theeb",
+            "A War"
+        ],
+        "2015": [
+            "Ida",
+            "Leviathan",
+            "Tangerines",
+            "Timbuktu",
+            "Wild Tales"
+        ],
+        "2014": [
+            "The Great Beauty",
+            "The Broken Circle Breakdown",
+            "The Hunt",
+            "The Missing Picture",
+            "Omar"
+        ],
+        "2013": [
+            "Amour",
+            "Kon-Tiki",
+            "No",
+            "A Royal Affair",
+            "War Witch"
+        ],
+        "2012": [
+            "A Separation",
+            "Bullhead",
+            "Footnote",
+            "In Darkness",
+            "Monsieur Lazhar"
+        ],
+        "2011": [
+            "In a Better World",
+            "Biutiful",
+            "Dogtooth",
+            "Incendies",
+            "Outside the Law"
+        ],
+        "2010": [
+            "The Secret in Their Eyes",
+            "Ajami",
+            "The Milk of Sorrow",
+            "A Prophet",
+            "The White Ribbon"
+        ],
+        "2009": [
+            "Departures",
+            "The Baader Meinhof Complex",
+            "The Class",
+            "Revanche",
+            "Waltz with Bashir"
+        ],
+        "2008": [
+            "The Counterfeiters",
+            "12",
+            "Beaufort",
+            "Katyń",
+            "Mongol"
+        ],
+        "2007": [
+            "The Lives of Others",
+            "After the Wedding",
+            "Days of Glory",
+            "Pan's Labyrinth",
+            "Water"
+        ],
+        "2006": [
+            "Tsotsi",
+            "The Beast in the Heart",
+            "Joyeux Noël",
+            "Paradise Now",
+            "Sophie Scholl – The Final Days"
+        ],
+        "2005": [
+            "The Sea Inside",
+            "As It Is in Heaven",
+            "The Chorus",
+            "Downfall",
+            "Yesterday"
+        ],
+        "2004": [
+            "The Barbarian Invasions",
+            "Evil",
+            "The Twilight Samurai",
+            "Twin Sisters",
+            "Želary"
+        ],
+        "2003": [
+            "Nowhere in Africa",
+            "The Crime of Father Amaro",
+            "Hero",
+            "The Man Without a Past",
+            "Zus & Zo"
+        ],
+        "2002": [
+            "No Man's Land",
+            "Amélie",
+            "Elling",
+            "Lagaan",
+            "Son of the Bride"
+        ],
+        "2001": [
+            "Crouching Tiger, Hidden Dragon",
+            "Amores Perros",
+            "Divided We Fall",
+            "Everybody's Famous!",
+            "The Taste of Others"
+        ],
+        "2000": [
+            "All About My Mother",
+            "Himalaya",
+            "East-West",
+            "Solomon and Gaenor",
+            "Under the Sun"
+        ],
+        "1999": [
+            "Life Is Beautiful",
+            "Central Station",
+            "Children of Heaven",
+            "The Grandfather",
+            "Tango"
+        ],
+        "1998": [
+            "Character",
+            "Beyond Silence",
+            "Four Days in September",
+            "Secrets of the Heart",
+            "The Thief"
+        ],
+        "1997": [
+            "Kolya",
+            "A Chef in Love",
+            "The Other Side of Sunday",
+            "Prisoner of the Mountains",
+            "Ridicule"
+        ],
+        "1996": [
+            "Antonia's Line",
+            "All Things Fair",
+            "Dust of Life",
+            "O Quatrilho",
+            "The Star Maker"
+        ],
+        "1995": [
+            "Burnt by the Sun",
+            "Before the Rain",
+            "Eat Drink Man Woman",
+            "Farinelli: Il Castrato",
+            "Strawberry and Chocolate"
+        ],
+        "1994": [
+            "Belle Epoque",
+            "Farewell My Concubine",
+            "Hedd Wyn",
+            "The Scent of Green Papaya",
+            "The Wedding Banquet"
+        ],
+        "1993": [
+            "Indochine",
+            "Close to Eden",
+            "Daens",
+            "Schtonk!"
+        ],
+        "1992": [
+            "Mediterraneo",
+            "Children of Nature",
+            "The Elementary School",
+            "The Ox",
+            "Raise the Red Lantern"
+        ],
+        "1991": [
+            "Journey of Hope",
+            "Cyrano de Bergerac",
+            "Ju Dou",
+            "The Nasty Girl",
+            "Open Doors"
+        ],
+        "1990": [
+            "Cinema Paradiso",
+            "Camille Claudel",
+            "Jesus of Montreal",
+            "Waltzing Regitze",
+            "What Happened to Santiago"
+        ],
+        "1989": [
+            "Pelle the Conqueror",
+            "Hanussen",
+            "The Music Teacher",
+            "Salaam Bombay!",
+            "Women on the Verge of a Nervous Breakdown"
+        ],
+        "1988": [
+            "Babette's Feast",
+            "Au Revoir Les Enfants (Goodbye, Children)",
+            "Course Completed",
+            "The Family",
+            "Pathfinder"
+        ]
+    }
+}
