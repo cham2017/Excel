@@ -13,11 +13,12 @@
           <option>最佳男配角</option>
           <option>最佳女配角</option>
           <option>最佳外语片</option>
+          <option>最佳动画长片</option>
       </select>
     </p>
   </div>
   <div id="app" class="mui-container">
-      <div id="grid-heat" style="margin:0px;height:650px;width:100%;padding:0;display:block;background-color:#fafafa;"></div>
+      <div id="grid-heat" style="margin:0px;height:650px;width:200%;padding:0;display:block;background-color:#fafafa;"></div>
   </div>
 </div>
 <script>
@@ -42,7 +43,7 @@
     ns.nomination = {};
     ns.metadata = {};
 
-    ns.categoryMapping = ["Best Picture", "Best Director", "Best Actor in a Leading Role", "Best Actress in a Leading Role", "Best Actor in a Supporting Role", "Best Actress in a Supporting Role", "Best Foreign Language Film"];
+    ns.categoryMapping = ["Best Picture", "Best Director", "Best Actor in a Leading Role", "Best Actress in a Leading Role", "Best Actor in a Supporting Role", "Best Actress in a Supporting Role", "Best Foreign Language Film", "Best Animated Feature"];
 
     /**
      * update the heat maps
@@ -91,11 +92,7 @@
                     aFormattedData.push([]);
                     aFormattedData[index + 1].push(i.Year);
                 }
-                if (i.Winner) {
-                    aFormattedData[index + 1].push(i.Winner.trim());
-                } else {
-                    aFormattedData[index + 1].push(i.Title.trim());
-                }
+                aFormattedData[index + 1].push(i.Title.trim());
             });
         }
 
@@ -206,9 +203,11 @@
         };
 
         h.flat.forEach(function(d, i) {
-            d.ox = d.oc * h.idim.width + state.margin;
+            // d.ox = d.oc * h.idim.width + state.margin;
+            // d.oy = d.or * h.idim.height + state.margin;
+            d.ox = d.oc * 85 + state.margin;
             d.oy = d.or * h.idim.height + state.margin;
-            d.ow = h.idim.width;
+            // d.ow = h.idim.width;
             // d.ow = (d.oc === 0) ? 30 : h.idim.width;
             d.oh = h.idim.height;
         });
@@ -248,9 +247,10 @@
         enter.select(".heatbox")
             .attr("x", function(d) { return d.ox; })
             .attr("y", function(d) { return d.oy; })
-            .attr("width", function(d) {
-                return d.ow;
-            })
+            .attr("width", 85)
+            // .attr("width", function(d) {
+            //     return d.ow;
+            // })
             .attr("height", function(d) { return d.oh; })
             .style("stroke", state.borderColor)
             .style("stroke-width", state.borderWidth)

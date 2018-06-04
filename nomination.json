@@ -1566,5 +1566,210 @@
             "The Family",
             "Pathfinder"
         ]
+    },
+    "Best Animated Feature": {
+        "2018": [
+            "Coco",
+            "The Boss Baby",
+            "The Breadwinner",
+            "Ferdinand",
+            "Loving Vincent"
+        ],
+        "2017": [
+            "Zootopia",
+            "Kubo and the Two Strings",
+            "Moana",
+            "My Life as a Zucchini",
+            "The Red Turtle"
+        ],
+        "2016": [
+            "Inside Out",
+            "Anomalisa",
+            "Boy and the World",
+            "Shaun the Sheep Movie",
+            "When Marnie Was There"
+        ],
+        "2015": [
+            "Big Hero 6",
+            "The Boxtrolls",
+            "How to Train Your Dragon 2",
+            "Song of the Sea",
+            "The Tale of the Princess Kaguya"
+        ],
+        "2014": [
+            "Frozen",
+            "The Croods",
+            "Despicable Me 2",
+            "Ernest & Celestine",
+            "The Wind Rises"
+        ],
+        "2013": [
+            "Brave",
+            "Frankenweenie",
+            "ParaNorman",
+            "The Pirates! Band of Misfits",
+            "Wreck-It Ralph"
+        ],
+        "2012": [
+            "Rango",
+            "A Cat in Paris",
+            "Chico & Rita",
+            "Kung Fu Panda 2",
+            "Puss in Boots"
+        ],
+        "2011": [
+            "Toy Story 3",
+            "How to Train Your Dragon",
+            "The Illusionist"
+        ],
+        "2010": [
+            "Up",
+            "Coraline",
+            "Fantastic Mr. Fox",
+            "The Princess and the Frog",
+            "The Secret of Kells"
+        ],
+        "2009": [
+            "WALL-E",
+            "Bolt",
+            "Kung Fu Panda"
+        ],
+        "2008": [
+            "Ratatouille",
+            "Persepolis",
+            "Surf's Up"
+        ],
+        "2007": [
+            "Happy Feet",
+            "Cars",
+            "Monster House"
+        ],
+        "2006": [
+            "Wallace & Gromit: The Curse of the Were-Rabbit",
+            "Corpse Bride",
+            "Howl's Moving Castle"
+        ],
+        "2005": [
+            "The Incredibles",
+            "Shark Tale",
+            "Shrek 2"
+        ],
+        "2004": [
+            "Finding Nemo",
+            "Brother Bear",
+            "The Triplets of Belleville"
+        ],
+        "2003": [
+            "Spirited Away",
+            "Ice Age",
+            "Lilo & Stitch",
+            "Spirit: Stallion of the Cimarron",
+            "Treasure Planet"
+        ],
+        "2002": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "2001": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "2000": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "1999": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "1998": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "1997": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "1996": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "1995": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "1994": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "1993": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "1992": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "1991": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "1990": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "1989": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "1988": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
     }
 }
